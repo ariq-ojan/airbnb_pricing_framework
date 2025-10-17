@@ -1,0 +1,635 @@
+id,name,host_id,host_name,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,is_luxury,is_long_term,availability_ratio,log_price
+66046.0,"24Flr- 1br Apt near JJ, MRT, BTS",323158,Sue,Chatuchak,13.82298,100.56484,Entire home/apt,122594,2,9,2020-03-04,0.09,6,180,0,True,False,0.4931506849315068,11.71664151861834
+185364.0,Beautiful Wood Bangkok Resort House,889670,Narumon,Nong Chok,13.779,100.83671,Entire home/apt,8658,1,0,,0.0,1,363,0,True,False,0.9945205479452055,9.066354521447801
+1323380.0,Master Suite in Pool Villa,2975807,Ingo,Vadhana,13.74618,100.55168,Private room,9600,28,1,2017-06-19,0.01,2,365,0,True,False,1.0,9.169622538697624
+854660.0,Nostalgic Thai House - The Villa,931710,Jeremy,Nong Chok,13.77672,100.83851,Entire home/apt,8658,1,1,2015-09-03,0.01,2,365,0,True,False,1.0,9.066354521447801
+858311.0,"River view penthouse 30 Fl, 5 Pers, taxi included",4491588,Donald,Khlong San,13.72135,100.508,Entire home/apt,7929,2,256,2022-12-15,2.13,1,267,43,True,False,0.7315068493150685,8.978408314628894
+1547429.0,บ้านใกล้สุวรรณภูมิ ตรงข้ามแอร์พอร์ตลิ้งบ้านทับช้าง,8243802,Prare,Saphan Sung,13.73667,100.69141,Entire home/apt,10355,1,0,,0.0,1,365,0,True,False,1.0,9.245321340871428
+1585084.0,Luxury 3 Bedrooms Suite @BTS Phrompong,8444643,Kiattisak,Vadhana,13.73616,100.57224,Entire home/apt,9999,2,46,2019-02-26,0.43,53,356,0,True,False,0.9753424657534246,9.210340371976184
+1589614.0,็Home with club house,6364900,Somkid,Prawet,13.72352,100.6536,Entire home/apt,10000,1,0,,0.0,1,365,0,True,False,1.0,9.210440366976517
+2682899.0,Luxury 3 Bedrooms Suite @BTS Phrompong,8444643,Kiattisak,Vadhana,13.7361,100.5704,Entire home/apt,9999,2,25,2022-12-07,0.24,53,358,2,True,False,0.9808219178082191,9.210340371976184
+3638924.0,Luxury 3 Bedrooms Suite @BTS Phrompong,8444643,Kiattisak,Vadhana,13.73757,100.56994,Entire home/apt,9999,2,24,2022-12-22,0.24,53,359,2,True,False,0.9835616438356164,9.210340371976184
+3639111.0,French Vintage Around the World B&B 中文服務 華語溝通,15039858,Around The World B&B,Suan Luang,13.73749,100.63279,Private room,8000,1,14,2018-07-04,0.15,10,365,0,True,False,1.0,8.987321812850125
+3732371.0,City Centre Home,15403102,Pratida,Pathum Wan,13.7467,100.54295,Entire home/apt,8800,180,2,2016-12-28,0.03,1,362,0,True,True,0.9917808219178083,9.082620630373812
+4450156.0,"Stylish Apartment in Bangkok, MRT",23095883,Thanakrit,Huai Khwang,13.75595,100.5678,Entire home/apt,100000,365,0,,0.0,1,365,0,True,True,1.0,11.51293546492023
+4526250.0,Luxury Apt Heart of Bkk Sukh soi 10,23464259,Jean-Michel,Khlong Toei,13.72138,100.58236,Entire home/apt,15000,1,1,2014-11-20,0.01,1,365,0,True,False,1.0,9.61587214452889
+3226062.0,House Near Suvarnabhumi Airport,8954433,Benz,Lat Krabang,13.79016,100.78797,Entire home/apt,9500,3,0,,0.0,2,365,0,True,False,1.0,9.15915233520675
+3963238.0,"Charming Casablanca, Cosy retreat. 中文服務 華語溝通",15039858,Around The World B&B,Suan Luang,13.73585,100.63108,Private room,8000,1,35,2020-01-01,0.36,10,365,0,True,False,1.0,8.987321812850125
+3480807.0,Benviar - Three Bedroom Suite(225 Sqm) @Chitlom,17499526,Benjamin,Pathum Wan,13.74034,100.54555,Entire home/apt,17265,1,344,2022-12-27,3.38,7,351,59,True,False,0.9616438356164384,9.756494528795468
+3611516.0,Benviar - Three Bedroom Duplex (275 sqm) @Chitlom,17499526,Benjamin,Pathum Wan,13.7417,100.54582,Entire home/apt,19276,1,111,2022-12-21,1.13,7,324,41,True,False,0.8876712328767123,9.866667954397592
+3611529.0,Benviar-Embassy Suite 6BRoom Duplex(500sqm)Chitlom,17499526,Benjamin,Pathum Wan,13.74047,100.54568,Entire home/apt,24536,1,126,2022-12-13,1.25,7,298,14,True,False,0.8164383561643835,10.107937461403084
+4753611.0,Luxury 3 Bedrooms Suite @BTS Phrompong,8444643,Kiattisak,Vadhana,13.73665,100.56983,Entire home/apt,9999,2,19,2017-05-29,0.2,53,360,0,True,False,0.9863013698630136,9.210340371976184
+6047170.0,2BR 75 sqm 1year lease can walk to sutisarn MRT,31005660,LineID:Naikaibin,Huai Khwang,13.78795,100.57904,Entire home/apt,18000,1,0,,0.0,3,365,0,True,False,1.0,9.798182590890704
+6203307.0,Grand Private House in City's Heart,32170173,Chayapat,Bang Kho Laem,13.69949,100.53026,Entire home/apt,8500,29,0,,0.0,1,365,0,True,False,1.0,9.04793908261736
+5185275.0,3BrPenthouseBTSphayathaiAirportLink,25154771,Noy Patreeda,Ratchathewi,13.75459,100.53175,Entire home/apt,8000,180,16,2018-02-22,0.17,1,365,0,True,True,1.0,8.987321812850125
+5208464.0,1Br 162m BTS Thonglor-Ekmai Japanese Style竹 レジデンス,18447241,Piyavit,Vadhana,13.72121,100.5835,Entire home/apt,12900,3,1,2015-02-17,0.01,1,87,0,True,False,0.23835616438356164,9.465060106725137
+6425825.0,Luxury Duplex Penthouse Sukhumvit Road,32466688,Laaong,Vadhana,13.74561,100.56849,Entire home/apt,10500,2,20,2019-08-24,0.3,6,354,0,True,False,0.9698630136986301,9.259225769705994
+5416617.0,"Safari Room, Family Room for 5 person 中文服務 華語溝通",15039858,Around The World B&B,Suan Luang,13.736,100.63123,Private room,10000,1,14,2019-08-31,0.15,10,365,0,True,False,1.0,9.210440366976517
+6508765.0,Rueanthai Raminthra - Wedding Villa,33548716,Gregory,Bueng Kum,13.84308,100.64655,Private room,29999,1,0,,0.0,1,363,0,True,False,0.9945205479452055,10.308952660644293
+6855235.0,HYDE Sukhumvit 13 Condomidium,35923444,Khunnee,Khlong Toei,13.73959,100.55522,Private room,45000,365,0,,0.0,3,365,0,True,True,1.0,10.714439990727769
+6874847.0,HYDE Sukhumvit Condominium,35923444,Khunnee,Vadhana,13.73938,100.55745,Entire home/apt,45000,180,0,,0.0,3,365,0,True,True,1.0,10.714439990727769
+6902941.0,"2BR next2 Siam Paragon,Platinum,BTS",32644062,Su,Ratchathewi,13.75367,100.533,Entire home/apt,8000,30,37,2016-05-02,0.41,1,365,0,True,False,1.0,8.987321812850125
+6948269.0,Bangkok's Ultimate Glass Tree House,36324473,Premika,Vadhana,13.74011,100.57229,Entire home/apt,10340,2,66,2022-11-06,0.73,5,324,14,True,False,0.8876712328767123,9.243871855184976
+7332633.0,Baanmai Pharam 9-Srinakarin,38417137,Dan,Bang Kapi,13.75129,100.64763,Entire home/apt,20000,1,0,,0.0,1,365,0,True,False,1.0,9.90353755128617
+7500734.0,Five Bedrooms Ensuite Bangkok Downtown Duplex/LOFT,30262097,Dr. Supot,Vadhana,13.74679,100.55888,Entire home/apt,14331,2,216,2022-12-18,2.92,15,118,39,True,False,0.3232876712328767,9.570250078424845
+8132965.0,Lumpini ville Aim Huaykwang,35608517,Cheongchai,Huai Khwang,13.77238,100.58247,Private room,10000,30,0,,0.0,1,365,0,True,False,1.0,9.210440366976517
+7625178.0,วิวล่า สิขลา,39999413,อัครพล,Vadhana,13.74159,100.57977,Private room,65000,399,0,,0.0,1,365,0,True,True,1.0,11.082157933374816
+8801560.0,"30th floor, 10 min to BTS, Seaview",4517723,Kannicha,Bang Na,13.66417,100.64955,Entire home/apt,35000,998,20,2022-10-30,0.26,7,365,5,True,True,1.0,10.463131911491967
+8880974.0,"Modern,wifi,5m MRT&2 Shopping Mall",30803267,Yasmine,Huai Khwang,13.75995,100.56936,Entire home/apt,1000000,100,45,2016-09-05,0.51,4,180,0,True,True,0.4931506849315068,13.815511557963774
+9637302.0,cozy & great location 350m.from MRT,4448099,Aloha,Chatuchak,13.81368,100.56512,Entire home/apt,10000,2,51,2020-01-16,0.59,1,271,0,True,False,0.7424657534246575,9.210440366976517
+9637430.0,Ivy ratchada condominium was saled,49839563,Xin Gui,Huai Khwang,13.79195,100.57539,Private room,15000,1,0,,0.0,1,365,0,True,False,1.0,9.61587214452889
+10241461.0,Kao Yai Trip,50182388,Julee,Thon Buri,13.69534,100.48597,Private room,60000,1,0,,0.0,1,179,0,True,False,0.4904109589041096,11.002116507732017
+9322134.0,Beautiful City Apartment,2150890,Kingjan,Khlong Toei,13.72956,100.56597,Entire home/apt,8658,1,0,,0.0,1,365,0,True,False,1.0,9.066354521447801
+10369527.0,Entries HOUSE High security for Fam,33122027,Ken,Suan Luang,13.71969,100.61311,Entire home/apt,8658,5,0,,0.0,2,365,0,True,False,1.0,9.066354521447801
+9416548.0,Ladprao MRT Station Stone Throw JENGA,28728079,Hoo,Chatuchak,13.8055,100.57463,Entire home/apt,7718,2,9,2019-07-01,0.15,1,365,0,True,False,1.0,8.951440100949855
+10477900.0,Riverview 3BR condo 142 sqm near Iconsiam. Netflix,42567814,Julian,Khlong San,13.71872,100.50847,Entire home/apt,8714,24,65,2020-01-02,0.78,1,359,0,True,False,0.9835616438356164,9.07280095795412
+11313019.0,Cozy apartment near BTS for group,37468649,Songchai,Vadhana,13.72475,100.5808,Entire home/apt,18000,4,34,2017-02-02,0.41,1,364,0,True,False,0.9972602739726028,9.798182590890704
+11729314.0,Mekhala Cruise: Bangkok - Ayuthaya - Bangkok,9797599,Littlehome,Bang Rak,13.72056,100.51354,Private room,12000,1,0,,0.0,6,362,0,True,False,0.9917808219178083,9.392745258631441
+11742537.0,Luxury 3 Bedrooms Suite @BTS Phrompong,8444643,Kiattisak,Vadhana,13.73781,100.57183,Entire home/apt,9999,2,2,2018-01-03,0.03,53,360,0,True,False,0.9863013698630136,9.210340371976184
+11880967.0,President Sathorn-Ratchaphruek,43743985,James,Phasi Charoen,13.7171,100.45558,Entire home/apt,27000,30,2,2017-09-08,0.03,4,358,0,True,False,0.9808219178082191,10.203629181337648
+11579635.0,"2 Bedroom,wifi,5mMRT&Shopping Mall",30803267,Yasmine,Huai Khwang,13.75471,100.56598,Entire home/apt,1000000,100,53,2018-02-20,0.64,4,249,0,True,True,0.6821917808219178,13.815511557963774
+11962808.0,Sathorn Residence A City Home,30257135,Nakorn,Bang Rak,13.72167,100.52598,Entire home/apt,15000,120,0,,0.0,1,358,0,True,True,0.9808219178082191,9.61587214452889
+11593131.0,Charming Family Villa by the Canal in Bangkok,9580549,Thanut,Bangkok Yai,13.74214,100.47115,Entire home/apt,13852,2,37,2022-12-17,0.46,1,351,4,True,False,0.9616438356164384,9.536257094657879
+12013033.0,5mins to Skytrain/lebua Suite RiverView/Breakfast,64263937,Tower Club At Lebua,Bang Rak,13.721637,100.516846,Private room,18937,1,12,2022-10-27,0.3,11,302,9,True,False,0.8273972602739726,9.848925764543445
+12056763.0,Charoenkrung Road House/Office Rent,62898498,Charlie,Bang Rak,13.72788,100.51872,Entire home/apt,300000,365,0,,0.0,1,365,0,True,True,1.0,12.611541086966115
+12821916.0,"3BR140sqm,WiFi,Kitchen,Family,Kid’sClub,TheUpRama3",8717079,Kriengsak,Yan Nawa,13.70225,100.53692,Private room,14643,1,18,2022-12-01,0.24,8,358,11,True,False,0.9808219178082191,9.591785974240127
+12347787.0,LPN Park Riverside Rama3,34072020,Anucha,Bang Kho Laem,13.69125,100.5048,Entire home/apt,10000,1,0,,0.0,1,365,0,True,False,1.0,9.210440366976517
+12361775.0,2BR Family Residence,800558,Kim (金),Pathum Wan,13.73844,100.54602,Private room,31338,2,0,,0.0,3,365,0,True,False,1.0,10.352618607296279
+13009149.0,S & S Condo Sukhumvit 101 for rent,71577576,Watchanee,Bang Na,13.6834,100.61405,Private room,15000,1,0,,0.0,1,365,0,True,False,1.0,9.61587214452889
+13400758.0,Errday Guest House,73275200,Pakaphol,Khlong Toei,13.72373,100.56415,Private room,36363,1,0,,0.0,2,1,0,True,False,0.0027397260273972603,10.50133455324175
+13033135.0,Airport-MRT-ShowShopFood-FullFN,34158729,Chayakorn,Din Daeng,13.78433,100.57066,Private room,300000,120,0,,0.0,1,358,0,True,True,0.9808219178082191,12.611541086966115
+13067172.0,Mini Suite strong wifi H shower twn bed.WC pantry,72420017,Surapong,Bang Khen,13.84927,100.64539,Private room,49920,1,29,2021-09-09,0.39,3,90,0,True,False,0.2465753424657534,10.818197034893952
+13075370.0,Great Location & View very near Thonglor BTS,13217166,Michael,Vadhana,13.72469,100.58106,Private room,10379,2,1,2016-06-15,0.01,1,91,0,True,False,0.2493150684931507,9.24763615671988
+12593749.0,5mins to Skytrain/lebua Suite CityView/Breakfast,64263937,Tower Club At Lebua,Bang Rak,13.72151,100.51683,Private room,12894,1,3,2019-07-08,0.06,11,306,0,True,False,0.8383561643835616,9.464594918315445
+12598504.0,Luxury City View/Lounge Access/5mins to Skytrain,64263937,Tower Club At Lebua,Bang Rak,13.721525,100.516907,Hotel room,18717,1,13,2022-05-02,0.2,11,92,1,True,False,0.25205479452054796,9.837240906717202
+12599032.0,Luxury River View/Lounge Access/5mins to Skytrain,64263937,Tower Club At Lebua,Bang Rak,13.72235,100.51579,Private room,19852,1,9,2022-12-03,0.2,11,92,1,True,False,0.25205479452054796,9.896110408197078
+13133295.0,Top Deck 2 Storey House 5 min walk to MRT Lumpini,72966780,Top,Sathon,13.72408,100.54417,Entire home/apt,8370,1,101,2022-12-11,1.28,4,341,13,True,False,0.9342465753424658,9.032528630660057
+12721121.0,"2BR,140sqm,Family,Kitchen,Near BTS,Central Rama 3",8717079,Kriengsak,Yan Nawa,13.70225,100.53692,Private room,11343,1,4,2022-11-27,0.06,8,358,1,True,False,0.9808219178082191,9.336444248771908
+13222983.0,3-bedroom Luxury Residence - Top Floor 160 sqm,800558,Kim (金),Pathum Wan,13.73672,100.5456,Entire home/apt,26730,2,1,2017-10-15,0.02,3,330,0,True,False,0.9041095890410958,10.193579219581707
+13696480.0,"Stayin Bangkok - Asoke, Sukhumvit 21 :BTS/MRT",79827400,Montasit,Vadhana,13.74559,100.56112,Private room,8000,1,0,,0.0,1,84,0,True,False,0.23013698630136986,8.987321812850125
+14246459.0,3 Bedroom Condominium Thonglor (newly renovated),85903164,Pun,Vadhana,13.73843,100.5864,Entire home/apt,9697,5,17,2022-08-01,0.22,1,363,1,True,False,0.9945205479452055,9.179674957665297
+13698349.0,Cozy & Clean Tahoe style cabin Test!,2707122,Daniel,Lat Krabang,13.72818,100.71673,Entire home/apt,8955,30,14,2019-02-06,0.19,1,364,0,True,False,0.9972602739726028,9.100078977718645
+13919575.0,Grand Park Town,82627555,Naratip,Wang Thonglang,13.77027,100.59732,Shared room,12500,90,0,,0.0,1,173,0,True,True,0.473972602739726,9.433563920090563
+13773682.0,2 br Suite XL - the Penthouse at LUXX Langsuan,68154488,Dusadee,Pathum Wan,13.73571,100.54198,Hotel room,15442,1,0,,0.0,62,304,0,True,False,0.8328767123287671,9.644911105223
+13983243.0,"บ้านเช่า หมู่บ้านณัฐกานต์สายไหม 10,000 บาท/เดือน",83435073,Fs1 Payon,Sai Mai,13.91388,100.66776,Entire home/apt,10000,1,0,,0.0,1,89,0,True,False,0.24383561643835616,9.210440366976517
+13983862.0,"PerFect Home 405 - Sukhumvit 16, Bangkok (Asoke)",60593496,Thongthep,Khlong Toei,13.73018,100.56062,Entire home/apt,8500,1,13,2022-11-03,0.17,3,358,2,True,False,0.9808219178082191,9.04793908261736
+14793325.0,Life at Thaphra Condominium,16204812,Bodeesorn,Thon Buri,13.71922,100.47759,Private room,8000,3,4,2018-02-11,0.05,1,179,0,True,False,0.4904109589041096,8.987321812850125
+14459513.0,Benviar - Four Bedroom Suite (300 Sqm) @Chitlom,17499526,Benjamin,Pathum Wan,13.74222,100.54396,Entire home/apt,22536,1,123,2022-12-24,1.68,7,331,43,True,False,0.9068493150684932,10.022913682018666
+14847917.0,Executive Suite Soi Sukhumvit 19 with rooftop pool,45414241,Banthueng,Vadhana,13.7425,100.56153,Entire home/apt,10861,1,5,2018-06-23,0.08,7,361,0,True,False,0.989041095890411,9.29302573859479
+14478285.0,1 Bedroom Apartment,89279775,Oakwood Residence Sukhumvit Thonglo,Vadhana,13.736,100.58181,Private room,39900,1,0,,0.0,1,361,0,True,False,0.989041095890411,10.594156665220533
+14894147.0,D Condo 3 Years at least rental only by Benzie,93461649,Benzie,Bang Kapi,13.74888,100.6064,Private room,10000,15,2,2019-06-12,0.03,1,90,0,True,False,0.2465753424657534,9.210440366976517
+14561611.0,Designer's luxurious 2BR Apartment Lumpini,90154944,Sean,Sathon,13.72326,100.55022,Entire home/apt,20000,30,43,2017-09-09,0.56,1,365,0,True,False,1.0,9.90353755128617
+15011050.0,25th Flr. 1BR+WiFi and cable TV in the city center,50300367,Thanun,Ratchathewi,13.75392,100.53326,Entire home/apt,10000,30,51,2017-04-21,0.67,1,91,0,True,False,0.2493150684931507,9.210440366976517
+15301348.0,"Pauls Inn ,A great riverside view 54 Sq/M cond",97434675,Shievaji,Phra Nakhon,13.75571,100.50097,Shared room,17316,1,0,,0.0,1,365,0,True,False,1.0,9.75944395695215
+15134115.0,Cozy 2Beds only 5 min walk to BTS unblocked view!!,95959689,Risa,Khlong Toei,13.71547,100.58528,Private room,60000,30,0,,0.0,1,364,0,True,False,0.9972602739726028,11.002116507732017
+15319963.0,"43sqm Studio, Asoke BTS/MRT. Monthly rent ONLY",31005660,LineID:Naikaibin,Vadhana,13.74097,100.55733,Entire home/apt,20000,1,0,,0.0,3,365,0,True,False,1.0,9.90353755128617
+15380964.0,"Resort Style Luxury apartment,5min to MRT,freeWifi",30803267,Yasmine,Huai Khwang,13.75877,100.56943,Entire home/apt,100686,1,40,2019-09-13,0.55,4,180,0,True,False,0.4931506849315068,11.519771974047286
+15958604.0,Benviar-Presidential Suite(900sqm)#6BRoom@Chitlom,17499526,Benjamin,Pathum Wan,13.74022,100.54541,Entire home/apt,21809,1,83,2021-06-20,1.14,7,297,0,True,False,0.8136986301369863,9.990123859195675
+15742265.0,Quiet Canal Oasis Apartment very near BTS,65103949,Huakuay,Vadhana,13.7138,100.60125,Private room,98000,1,6,2017-02-15,0.08,1,180,0,True,False,0.4931506849315068,11.49273296168228
+16045517.0,"BTS Wongwianyai, Rooftop Pool, Wifi",94426146,Wanlapatch,Khlong San,13.72155,100.49517,Entire home/apt,160000,3,20,2018-04-26,0.27,1,179,0,True,False,0.4904109589041096,11.982935344196433
+15552399.0,Riverside Penthouse BTS/Pool/Gym 5*Location 235sqm,100107871,Geoffrey,Khlong San,13.71912,100.50945,Entire home/apt,10734,15,11,2020-01-25,0.15,1,363,0,True,False,0.9945205479452055,9.28126471031288
+16139502.0,Nice Check-in My Hostel (Private 2 beds),51074483,Nuttawut,Ratchathewi,13.75113,100.52731,Hotel room,300000,1,2,2020-02-23,0.03,5,365,0,True,False,1.0,12.611541086966115
+15904511.0,Charming 6 Bedrooms House Central Bangkok,72966780,Top,Sathon,13.72206,100.54444,Entire home/apt,13570,1,87,2022-12-12,1.18,4,342,14,True,False,0.936986301369863,9.51569044208137
+15904729.0,Elegant 6 Bedrooms House in Heart of Bangkok,72966780,Top,Sathon,13.72266,100.54477,Entire home/apt,10570,1,134,2022-12-22,1.83,4,333,20,True,False,0.9123287671232877,9.265869681768663
+16279348.0,NaturBliss Boutique House,15927770,Chayanuch,Khan Na Yao,13.84516,100.65331,Private room,12500,1,0,,0.0,5,365,0,True,False,1.0,9.433563920090563
+16725943.0,คอนโดศรีวราแมนชั่น 2 ใกล้ MRT ศูนย์วัฒนธรรม,79094805,3qproperties,Khan Na Yao,13.8209,100.66362,Private room,26000,180,0,,0.0,1,365,0,True,True,1.0,10.165890277802454
+16295040.0,SPACIOUS 3BR APT in the Heart of Bangkok!,2355119,Jacob,Pathum Wan,13.74547,100.55018,Entire home/apt,9539,2,93,2020-01-01,1.27,1,79,0,True,False,0.21643835616438356,9.163248764442333
+17036946.0,เดอะ วีว่า คอนโด เพชรเกษม 68,99731201,Choonam,Bang Khae,13.71151,100.41745,Private room,8652,365,0,,0.0,1,365,0,True,True,1.0,9.06566136060674
+17081822.0,Twins beds strong wifi WC shower inside calm area,72420017,Surapong,Bang Khen,13.85006,100.64535,Private room,50000,1,13,2019-08-12,0.18,3,89,0,True,False,0.24383561643835616,10.819798284210286
+16623043.0,Penthouse house for rent at Wind Sukhumvit23,30813577,Rujiret,Vadhana,13.73979,100.56564,Private room,10000,30,0,,0.0,3,90,0,True,False,0.2465753424657534,9.210440366976517
+17491406.0,Cosy house near Bangkok,33364535,Claude,Min Buri,13.77753,100.7254,Entire home/apt,15000,1,0,,0.0,1,364,0,True,False,0.9972602739726028,9.61587214452889
+17530168.0,"New,Luxury.Asok,Nana.“Home-Sweet-Home”Sukhumvit 13",28481216,Steve,Ratchathewi,13.74871,100.55767,Entire home/apt,10000,30,50,2019-03-05,0.71,1,181,0,True,False,0.4958904109589041,9.210440366976517
+18029869.0,My room is minimal and classic.,123824418,Nattharon,Bang Khae,13.71727,100.40824,Private room,12000,1,0,,0.0,1,180,0,True,False,0.4931506849315068,9.392745258631441
+18131019.0,7BR+8Bath/Breakfast+Free Airport Pick Up,6906718,Anne Araya,Phra Khanong,13.6991,100.60661,Entire home/apt,8111,1,10,2019-05-02,0.15,25,346,0,True,False,0.947945205479452,9.001099725830965
+17947255.0,1 bedroom 5-star Lumphini - Bangkok,800558,Kim (金),Pathum Wan,13.73765,100.54504,Entire home/apt,16591,2,1,2017-04-16,0.01,3,364,0,True,False,0.9972602739726028,9.716675930469309
+17972963.0,Spacious Silom stays (FREE 2 ways airport pickup),26736483,K,Bang Rak,13.72695,100.53159,Entire home/apt,8110,1,5,2019-02-18,0.07,89,174,0,True,False,0.4767123287671233,9.000976444070345
+18570695.0,Luxury Penthouse Lower Sukhumvit Area,32466688,Laaong,Vadhana,13.7439,100.56926,Entire home/apt,13000,2,37,2022-12-11,0.55,6,346,2,True,False,0.947945205479452,9.472781556562168
+18183324.0,2 Night Cruise from Bangkok to Ayutthaya,262338699,Teerapole,Bang Rak,13.71994,100.51325,Private room,27000,2,0,,0.0,2,363,0,True,False,0.9945205479452055,10.203629181337648
+19469957.0,Stylish 2 Bedroom Apartment in Ekkamai,33550104,Kasamsan,Vadhana,13.73511,100.59068,Hotel room,24390,2,62,2022-12-05,0.94,6,179,6,True,False,0.4904109589041096,10.101969490779476
+18917181.0,PST Tower 1,131852796,Patnaree,Sathon,13.71131,100.537,Entire home/apt,40000,1,0,,0.0,1,365,0,True,False,1.0,10.596659732783579
+18744412.0,Convince Condo Fl.26 river side near MRT Bangsae,104067139,Pongwich,Bang Sue,13.80616,100.52835,Private room,14662,28,0,,0.0,2,365,0,True,False,1.0,9.59308259297708
+19082619.0,"PerFect Home 401 - Sukhumvit 16, Bangkok (Asoke)",60593496,Thongthep,Khlong Toei,13.72651,100.56218,Entire home/apt,8500,1,13,2020-10-05,0.2,3,331,0,True,False,0.9068493150684932,9.04793908261736
+19083341.0,"PerFect Home 402 - Sukhumvit 16, Bangkok (Asoke)",60593496,Thongthep,Khlong Toei,13.72639,100.56188,Entire home/apt,8000,1,3,2020-10-04,0.05,3,331,0,True,False,0.9068493150684932,8.987321812850125
+19617339.0,Urban Life 2B2B in Ekkamai,33550104,Kasamsan,Vadhana,13.73357,100.58959,Entire home/apt,20803,2,29,2022-12-03,0.44,6,88,5,True,False,0.2410958904109589,9.942900554892963
+18804295.0,200 Meter to BTS Bangna station,64508602,Thanapoj,Bang Na,13.66438,100.60381,Entire home/apt,10000,15,23,2018-06-23,0.34,4,180,0,True,False,0.4931506849315068,9.210440366976517
+19933225.0,Cosy,141238214,Chatchawal,Khlong Toei,13.71021,100.59586,Entire home/apt,8000,30,7,2018-09-30,0.11,1,365,0,True,False,1.0,8.987321812850125
+19301423.0,คอนโด ศุภาลัย ริเวอร์ รีสอร์ท,35923444,Khunnee,Khlong San,13.71323,100.50362,Private room,50000,365,0,,0.0,3,365,0,True,True,1.0,10.819798284210286
+19308683.0,comfortably to stay @Asok&Korea town,106232126,Kannaphat,Vadhana,13.74601,100.55777,Private room,8209,4,47,2020-01-23,0.89,3,358,0,True,False,0.9808219178082191,9.013108202446475
+19317602.0,4 Storey Thai Style Home in central Bangkok,96492745,Top,Sathon,13.72167,100.54553,Entire home/apt,11999,1,71,2022-12-17,1.07,2,346,13,True,False,0.947945205479452,9.392661928770137
+19831381.0,"Peaceful Villa, Near to BTS, A different BKK Life",140156246,Brian,Phra Khanong,13.68506,100.60856,Private room,8500,1,0,,0.0,2,89,0,True,False,0.24383561643835616,9.04793908261736
+19847558.0,Eco-friendly 2B Apartment in community of Ekkamai.,33550104,Kasamsan,Vadhana,13.73352,100.59044,Entire home/apt,14209,2,41,2022-12-18,0.62,6,178,5,True,False,0.4876712328767123,9.561701221091147
+19893980.0,Marvelous Street View and Well Equipped Condo,140156246,Brian,Phra Khanong,13.68541,100.60876,Entire home/apt,9000,1,5,2017-11-19,0.08,2,90,0,True,False,0.2465753424657534,9.105090961257085
+19904428.0,WalaVela FAMILYsuit/CITY CENTER/LOCAL THAI/Jacuzzi,27947186,Tindies,Khlong Toei,13.72151,100.58012,Entire home/apt,50000,60,90,2020-06-13,1.38,1,87,0,True,True,0.23835616438356164,10.819798284210286
+20493267.0,Luxury 2 Bedroom apartment close to everthing,13972467,Khajorn,Ratchathewi,13.76245,100.53847,Private room,70000,30,14,2018-04-02,0.22,1,87,0,True,False,0.23835616438356164,11.156264806643742
+20514756.0,bangkok top,146460831,Danila,Bang Khun Thian,13.65702,100.44425,Entire home/apt,21818,1,1,2022-08-29,0.25,1,365,1,True,False,1.0,9.99053642882265
+20863680.0,"Green space++, 2B2B Apartment in Ekkamai",33550104,Kasamsan,Vadhana,13.73546,100.59108,Entire home/apt,21274,3,28,2022-10-16,0.44,6,179,1,True,False,0.4904109589041096,9.965287953441575
+20967003.0,Homeplace Bangkok,27142937,Penprapa,Saphan Sung,13.77898,100.69061,Entire home/apt,8000,3,0,,0.0,2,180,0,True,False,0.4931506849315068,8.987321812850125
+20368910.0,#TWO Stunning Bedroom EnSuite,145286178,Pok,Samphanthawong,13.73782,100.51135,Hotel room,7957,1,0,,0.0,4,364,0,True,False,0.9972602739726028,8.981932990986873
+21044871.0,CHANN Bangkok-Noi Deluxe Studio,150208988,Chann,Bangkok Noi,13.76225,100.48639,Private room,8000,1,0,,0.0,11,362,0,True,False,0.9917808219178083,8.987321812850125
+21044873.0,Riverside Thai chic wooden house (Deluxe Studio),150208988,Chann,Bangkok Noi,13.76214,100.48832,Entire home/apt,8000,1,0,,0.0,11,361,0,True,False,0.989041095890411,8.987321812850125
+21044877.0,Riverside Thai chic wooden house (Junior Suite),150208988,Chann,Bangkok Noi,13.76287,100.48642,Entire home/apt,12000,1,0,,0.0,11,174,0,True,False,0.4767123287671233,9.392745258631441
+21044880.0,Riverside Thai chic wooden house Riverfront Suite,150208988,Chann,Bangkok Noi,13.76238,100.4864,Private room,10400,1,0,,0.0,11,361,0,True,False,0.989041095890411,9.249657234353133
+21045109.0,Head Into Bangkok From a Chic Home,68154488,Dusadee,Pathum Wan,13.73571,100.54198,Private room,7691,1,17,2022-11-16,0.28,62,332,11,True,False,0.9095890410958904,8.94793610670867
+20792684.0,ให้เช่า ทาวน์โฮม 4 ชั้น สุขุมวิท 101/1 ใกล้ BTS,147034553,ปฏิคม,Bang Na,13.68176,100.61431,Entire home/apt,19000,1,0,,0.0,1,365,0,True,False,1.0,9.852246888342531
+20795025.0,Peaceful 2B2B Apartment in Ekkamai.,33550104,Kasamsan,Vadhana,13.73544,100.59079,Entire home/apt,8509,2,35,2022-10-30,0.54,6,172,4,True,False,0.4712328767123288,9.04899722156742
+20823922.0,The president Sathorn-Ratchaphruek,149360248,Nontichai,Phasi Charoen,13.72014,100.45763,Private room,10000,1,0,,0.0,1,362,0,True,False,0.9917808219178083,9.210440366976517
+20835992.0,"Grand Deluxe 1 BR 70 sqm ,Wifi,Family,Kid’sClub",8717079,Kriengsak,Yan Nawa,13.7027,100.53742,Hotel room,8543,1,2,2018-04-08,0.03,8,364,0,True,False,0.9972602739726028,9.052984561199976
+20835995.0,"Deluxe 1 Bedroom Suite, Wifi, Shuttle Van,Kitchen",8717079,Kriengsak,Yan Nawa,13.70245,100.53722,Hotel room,8143,1,0,,0.0,8,364,0,True,False,0.9972602739726028,9.005036738790304
+20836001.0,"Grand 2BR,140sqm,Kitchen,Near BRT,Central Rama 3",8717079,Kriengsak,Yan Nawa,13.70218,100.53849,Hotel room,11943,1,1,2018-11-09,0.02,8,359,0,True,False,0.9835616438356164,9.387984339219026
+20852409.0,"Heritage Shophouse in Chinatown, BKK(House)",28447831,Dr. Piyamas,Samphanthawong,13.73685,100.5145,Private room,12000,1,1,2017-12-02,0.02,11,2,0,True,False,0.005479452054794521,9.392745258631441
+21200681.0,Condo for rent per 2 years,9166185,Suttheera,Saphan Sung,13.76825,100.68037,Private room,11950,2,1,2018-09-18,0.02,1,358,0,True,False,0.9808219178082191,9.388570235866881
+21478284.0,★4BDs Design House ★ w/ large living and working,155994967,Vittaya,Phaya Thai,13.78335,100.54137,Entire home/apt,8321,1,144,2022-12-06,2.28,4,97,30,True,False,0.26575342465753427,9.026657889542886
+21597901.0,Aspire Erawan,157094185,Joewuttichai,Bang Khae,13.71529,100.37899,Private room,10000,1,0,,0.0,1,180,0,True,False,0.4931506849315068,9.210440366976517
+21373288.0,Big Groups Heaven in Central Location,5711286,Susan,Khlong Toei,13.7160644,100.5897065,Entire home/apt,8000,2,12,2022-12-17,1.98,4,325,12,True,False,0.8904109589041096,8.987321812850125
+21642849.0,บ้านเช่ารายเดือน/หมู่บ้านสินทวีสวนธน3,102590236,Deedy,Thung Khru,13.60531,100.50642,Entire home/apt,9000,365,0,,0.0,1,365,0,True,True,1.0,9.105090961257085
+22218113.0,CBD Sathorn Four Season TownHouse--Entire house,139189243,Hana,Bang Rak,13.7247,100.53267,Entire home/apt,12000,1,78,2020-12-27,1.34,29,329,0,True,False,0.9013698630136986,9.392745258631441
+22232892.0,Exclusive Pool Villa in Prime Thonglor,36324473,Premika,Vadhana,13.72862,100.57695,Entire home/apt,15000,2,0,,0.0,5,304,0,True,False,0.8328767123287671,9.61587214452889
+22169524.0,"Vacation Bangkok, The Artistic Home : 4BR, 13PAX",32063730,Nattika,Khlong San,13.72695,100.50791,Private room,10000,2,0,,0.0,2,86,0,True,False,0.2356164383561644,9.210440366976517
+22488966.0,Lumpini Ville On Nuch-Pattanakarn อ่อนนุช-พัฒนาการ,164928716,Arpaporn,Prawet,13.71667,100.65315,Entire home/apt,10000,28,9,2019-10-01,0.15,3,363,0,True,False,0.9945205479452055,9.210440366976517
+22819942.0,3 Bedroom Suite,168249516,Saovarat,Vadhana,13.74439,100.55758,Entire home/apt,8899,1,3,2022-11-20,0.06,2,361,1,True,False,0.989041095890411,9.093806555720231
+22573975.0,"Designer HUGE 2 BR Duplex, Steps to BTS,EMQUARTIER",16782331,Sasiri,Khlong Toei,13.72483,100.56606,Entire home/apt,9857,5,19,2022-11-02,0.32,1,140,3,True,False,0.3835616438356164,9.196038587265322
+22593032.0,Stunning penthouse,4220372,Thatsaniwan,Khlong Toei,13.73017,100.56165,Entire home/apt,10000,30,2,2022-07-28,0.03,1,363,1,True,False,0.9945205479452055,9.210440366976517
+22606769.0,"Trapezo Sukhumvit 16 - Minimum 1 Month -28,000 THB",166329220,Find,Khlong Toei,13.72529,100.56315,Entire home/apt,28000,31,0,,0.0,1,89,0,True,True,0.24383561643835616,10.239995502805316
+22609954.0,Ban Chom Dao,91450096,Tharon,Suan Luang,13.71232,100.61387,Private room,8000,1,0,,0.0,1,365,0,True,False,1.0,8.987321812850125
+22299069.0,Casa Condo BTS Taladpru,162995721,Tharanee,Thon Buri,13.71343,100.4775,Private room,10500,1,0,,0.0,1,83,0,True,False,0.2273972602739726,9.259225769705994
+22633450.0,rm 1 : cozy & comfy,117057915,Jeab,Bang Phlat,13.79163,100.49038,Private room,600700,1,9,2020-01-26,0.17,5,330,0,True,False,0.9041095890410958,13.305852585561356
+22335536.0,"Wow!! Nice condo BTS, Ekkamai-Thonglor!!!",74200744,Pimchaya,Vadhana,13.73008,100.58607,Private room,10000,1,0,,0.0,5,41,0,True,False,0.11232876712328767,9.210440366976517
+22339732.0,"Luxury Condo,Private, 47Sq.m. Ekkamai-Thonglor!",74200744,Pimchaya,Vadhana,13.72984,100.58631,Private room,10000,2,2,2018-02-13,0.03,5,42,0,True,False,0.11506849315068493,9.210440366976517
+23130030.0,60sqmCITY-View-Breakfast-ChatriumRiversideICONSIAM,163816479,Chatrium Riverside RSVN Team,Bang Kho Laem,13.71034,100.50858,Private room,12511,15,0,,0.0,6,45,0,True,False,0.1232876712328767,9.434443462785092
+23132606.0,1BR-70sqmCityViewRoomOnlyChatriumRiversideICONSIAM,163816479,Chatrium Riverside RSVN Team,Bang Kho Laem,13.71056,100.50817,Private room,13571,1,1,2019-04-15,0.02,6,88,0,True,False,0.2410958904109589,9.51576412590412
+23133676.0,60sqmCityViewRoomOnlyChatriumRiversideAsiatique,163816479,Chatrium Riverside RSVN Team,Bang Kho Laem,13.7099,100.50815,Private room,11805,1,0,,0.0,6,45,0,True,False,0.1232876712328767,9.376363155800634
+23134222.0,1BR-70sqmCityBreakfastChatriumRiversideICONSIAM,163816479,Chatrium Riverside RSVN Team,Bang Kho Laem,13.70979,100.50905,Private room,13688,1,1,2019-04-07,0.02,6,115,0,True,False,0.3150684931506849,9.524347869595513
+23740993.0,"Modern&Luxury apartment,5min to MRT,freeWifi",30803267,Yasmine,Huai Khwang,13.76065,100.56898,Entire home/apt,1000000,1,12,2020-03-24,0.22,4,336,0,True,False,0.9205479452054794,13.815511557963774
+23744398.0,"Cozy 1bed, BTS Prakanon Sukumvit71 Netflix&kitchen",91426608,Jubjib,Vadhana,13.71351,100.59451,Entire home/apt,100194,3,4,2022-09-24,0.07,3,14,1,True,False,0.038356164383561646,11.514873566188244
+23241466.0,"Neveu:The Penthouse, 5 bedrooms Apt@MRT Sutthisan",29488167,Potae Pongthorn,Huai Khwang,13.79048,100.57494,Entire home/apt,9709,1,42,2022-11-28,0.72,9,307,4,True,False,0.8410958904109589,9.18091156128537
+23864529.0,"2 Br 4ppl Trendy Area, Pool, WiFi, BTS, Shopping",62875224,Jimmy,Vadhana,13.73636,100.58523,Entire home/apt,35005,3,71,2020-03-02,1.22,1,365,0,True,False,1.0,10.463274754350781
+23316366.0,Equinox Condo,37296720,Ball,Chatuchak,13.80886,100.5579,Private room,25000,365,0,,0.0,1,364,0,True,True,0.9972602739726028,10.12667110305036
+23929056.0,"Sukhumvit, Emporium Mall, Phrompong BTS Station",163815743,Chatchawan,Khlong Toei,13.73076,100.56877,Private room,12629,1,0,,0.0,10,351,0,True,False,0.9616438356164384,9.443830215344537
+23929398.0,"Deluxe,WiFi,EmQuatier,1min to Phrompong BTS",163815743,Chatchawan,Khlong Toei,13.73076,100.56877,Private room,12629,1,0,,0.0,10,351,0,True,False,0.9616438356164384,9.443830215344537
+23929628.0,"Sukhumvit, 1min walk Phrompong BTS, Emporium Mall",163815743,Chatchawan,Khlong Toei,13.73076,100.56877,Private room,12629,1,2,2019-02-11,0.04,10,351,0,True,False,0.9616438356164384,9.443830215344537
+23929782.0,"Phrompong BTS,Sukhumvit,WiFi,Benjasiri Park",163815743,Chatchawan,Khlong Toei,13.73076,100.56877,Private room,12629,1,2,2018-10-21,0.04,10,351,0,True,False,0.9616438356164384,9.443830215344537
+23929905.0,"Near Phrompong BTS,Benjasiri Park,WiFi",163815743,Chatchawan,Khlong Toei,13.73076,100.56877,Private room,12629,1,0,,0.0,10,351,0,True,False,0.9616438356164384,9.443830215344537
+23344209.0,"Stay safe in your own whole floor, 5 Bedrooms",91934777,Vichak,Huai Khwang,13.76986,100.58215,Private room,12859,1,77,2022-12-12,1.33,25,340,5,True,False,0.9315068493150684,9.46187699779161
+23344486.0,"Whole house,3BR, 150sqm,Near Subway",91934777,Vichak,Huai Khwang,13.7689,100.58208,Entire home/apt,14670,1,37,2022-08-30,0.65,25,347,1,True,False,0.9506849315068493,9.593628035139645
+23967589.0,"K1, Silom Bangkok",180252289,Franklin,Phra Nakhon,13.75593,100.50058,Entire home/apt,12720,1,0,,0.0,1,364,0,True,False,0.9972602739726028,9.45100945015621
+24107532.0,Naturbliss Resort Village,85003972,Chayanuch,Khan Na Yao,13.84365,100.65403,Private room,10000,1,0,,0.0,1,365,0,True,False,1.0,9.210440366976517
+24000122.0,Cozy & Spacious 6BR House Central Bangkok,96492745,Top,Sathon,13.72231,100.54448,Entire home/apt,13142,1,51,2022-12-05,0.89,2,344,13,True,False,0.9424657534246575,9.483644576482009
+23674905.0,Modern Thong Lo House,5858411,Henno,Vadhana,13.73444,100.58373,Private room,34631,3,0,,0.0,1,91,0,True,False,0.2493150684931507,10.452533389121816
+24487114.0,Whole House for Big Group up to 28 persons !!,184970638,Ormmie,Bangkok Yai,13.73849,100.48525,Entire home/apt,9643,1,5,2022-10-24,0.13,5,345,2,True,False,0.9452054794520548,9.174091239301061
+24189320.0,"Sukhumvit,1min walk to PhrompongBTS",163815743,Chatchawan,Khlong Toei,13.73076,100.56877,Private room,12829,1,1,2018-08-29,0.02,10,351,0,True,False,0.9616438356164384,9.459541457609681
+24189938.0,"Emporium Mall,near Phrompong BTS,WiFi",163815743,Chatchawan,Khlong Toei,13.73076,100.56877,Private room,12829,1,1,2018-09-27,0.02,10,351,0,True,False,0.9616438356164384,9.459541457609681
+24190296.0,"Grand Deluxe,WiFi,EmQuatier,near BTS",163815743,Chatchawan,Khlong Toei,13.73076,100.56877,Private room,12829,1,1,2018-10-13,0.02,10,351,0,True,False,0.9616438356164384,9.459541457609681
+24190615.0,"Sukhumvit,Grand Room,WiFi,EmporiumMall",163815743,Chatchawan,Khlong Toei,13.73076,100.56877,Private room,12829,1,1,2018-09-22,0.02,10,351,0,True,False,0.9616438356164384,9.459541457609681
+24191066.0,"Phrompong BTS,Sukhumvit,WiFi",163815743,Chatchawan,Khlong Toei,13.73076,100.56877,Private room,12829,1,1,2019-11-21,0.03,10,351,0,True,False,0.9616438356164384,9.459541457609681
+24500524.0,Condo Villa Lasalle Sukumwit105,185085665,Wilawan,Bang Na,13.65916,100.61214,Private room,9500,1,0,,0.0,1,365,0,True,False,1.0,9.15915233520675
+24214182.0,The Ultimate Luxury Centre of Shopping Malls,131434356,Salinrat,Lat Phrao,13.80776,100.61499,Entire home/apt,8900,365,3,2020-03-17,0.06,4,365,0,True,True,1.0,9.093918908958932
+24524641.0,"Neveu:The Club, 5 bedrooms Apt@MRT Sutthisan",29488167,Potae Pongthorn,Huai Khwang,13.79088,100.57484,Entire home/apt,7970,1,85,2022-12-22,1.51,9,310,9,True,False,0.8493150684931506,8.983565234427923
+24663806.0,ศุภาลัยเวลลิงตัน 2,186402612,ฐิตารี,Huai Khwang,13.76795,100.57842,Private room,15000,7,0,,0.0,1,365,0,True,False,1.0,9.61587214452889
+24702844.0,คอนโดศุภาลัยเวลลิงตัน2,186695648,ฐิตารี,Huai Khwang,13.76724,100.58206,Private room,10000,7,0,,0.0,3,365,0,True,False,1.0,9.210440366976517
+24703364.0,คอนโดศุภาลัยเวลลิงตัน2,186695648,ฐิตารี,Huai Khwang,13.76735,100.58199,Private room,34000,7,0,,0.0,3,365,0,True,False,1.0,10.434145214930487
+24704039.0,คอนโดศุภาลัยเวลลิงตัน2,186695648,ฐิตารี,Huai Khwang,13.76562,100.58187,Private room,33000,7,0,,0.0,3,364,0,True,False,0.9972602739726028,10.404293143019792
+24303892.0,SupraRoom #1BD Khoasan RD & ChaoPhaya River,160844163,Supranee,Bangkok Noi,13.78414,100.46955,Private room,12397,1,2,2020-03-04,0.05,2,273,0,True,False,0.7479452054794521,9.425290448261865
+24882757.0,Detached House for rent in bangkok $1200/month,188113892,Preeyawadee,Prawet,13.65808,100.69395,Private room,41557,1,0,,0.0,1,365,0,True,False,1.0,10.634845320859826
+24895023.0,旅途中的家,188219608,Tianhao,Phra Khanong,13.68739,100.61776,Shared room,13000,1,0,,0.0,1,180,0,True,False,0.4931506849315068,9.472781556562168
+25429707.0,Clean Check-in My Hostel (Private 4 beds),51074483,Nuttawut,Ratchathewi,13.75115,100.52767,Private room,300000,1,1,2019-02-10,0.02,5,365,0,True,False,1.0,12.611541086966115
+25434238.0,Comfy Check-in My Hostel (Private 2 beds-deluxe),51074483,Nuttawut,Ratchathewi,13.75098,100.52924,Private room,300000,1,6,2019-07-09,0.12,5,365,0,True,False,1.0,12.611541086966115
+25434663.0,Comfy Check-in My Hostel (Private 3 beds),51074483,Nuttawut,Ratchathewi,13.74978,100.52896,Private room,300000,1,2,2019-12-29,0.04,5,365,0,True,False,1.0,12.611541086966115
+25435163.0,Newly Built Modern 3-Bedroom Villa wt Private Pool,25823150,Sumana,Lat Phrao,13.80186,100.61327,Entire home/apt,15831,3,8,2020-03-04,0.16,1,360,0,True,False,0.9863013698630136,9.669788487282402
+24912379.0,Квартира в стиле Хай-Тек 2 спальны,183942666,Albina,Bangkok Yai,13.73133,100.46712,Entire home/apt,9217,1,0,,0.0,1,180,0,True,False,0.4931506849315068,9.128913373280454
+25266121.0,3 BD - Luxury Thai Pool Villa in Sukumvit 24,8336931,Tontrakun,Khlong Toei,13.72076,100.56511,Entire home/apt,17886,365,41,2022-10-31,0.74,3,341,6,True,True,0.9342465753424658,9.791829470993246
+25983985.0,竹 レジデンス Japanese room 1Br 162m BTS Thonglor-Ekmai,119275447,Takeshi,Khlong Toei,13.7206,100.58358,Entire home/apt,10900,3,0,,0.0,1,87,0,True,False,0.23835616438356164,9.296609807128359
+25998585.0,3-bedroom 220m2 apartment near Emporium Complex,171082741,Wiset,Vadhana,13.74215,100.56927,Entire home/apt,9999,2,0,,0.0,22,176,0,True,False,0.4821917808219178,9.210340371976184
+25525957.0,Modern 2-BR duplex in the heart of Bangkok,437555,Venussa,Sathon,13.71975,100.532,Entire home/apt,15000,1,0,,0.0,2,365,0,True,False,1.0,9.61587214452889
+25548273.0,"2Houses+10Bed+10Bath, Daily Cleaning, Free Pick Up",6906718,Anne Araya,Phra Khanong,13.6988,100.60699,Entire home/apt,18000,1,3,2020-01-28,0.06,25,302,0,True,False,0.8273972602739726,9.798182590890704
+25592377.0,"Happy Condo Ratchada18,Studio Room",179047788,Miki,Huai Khwang,13.76812,100.57554,Private room,8000,1,0,,0.0,1,180,0,True,False,0.4931506849315068,8.987321812850125
+26156983.0,3 bedroom 175m2 apartment near Emporium,171082741,Wiset,Vadhana,13.74133,100.56773,Entire home/apt,8999,2,2,2019-04-15,0.04,22,87,0,True,False,0.23835616438356164,9.104979856318357
+25662758.0,i condo Sumkumvit 105,181392489,Kaa,Bang Na,13.67483,100.63795,Private room,13000,30,0,,0.0,1,365,0,True,False,1.0,9.472781556562168
+26786889.0,"GrandDeluxe Studio45sqm, Sathorn, FreeWiFi,nearBRT",8717079,Kriengsak,Yan Nawa,13.70199,100.53661,Hotel room,7743,1,1,2022-10-16,0.41,8,355,1,True,False,0.9726027397260274,8.954673628956414
+26797418.0,Artistic and Quirky Home with a Copper Bathtub,218562,Jesse,Vadhana,13.74114,100.58054,Entire home/apt,9286,1,40,2022-10-16,0.74,2,326,6,True,False,0.8931506849315068,9.13637085177601
+25927157.0,物美价廉小套房,194881166,Ping,Huai Khwang,13.77184,100.57683,Private room,9000,30,0,,0.0,1,364,0,True,False,0.9972602739726028,9.105090961257085
+27765902.0,PL Cozy Place,209643432,Pitchaya,Vadhana,13.70891,100.60188,Entire home/apt,21429,1,0,,0.0,1,180,0,True,False,0.4931506849315068,9.972547088467623
+27413609.0,HOME,206592012,Thamon,Taling Chan,13.77183,100.4085,Entire home/apt,8000,5,0,,0.0,1,90,0,True,False,0.2465753424657534,8.987321812850125
+28234237.0,อพาร์ทเมนท์ Antioch,213263577,William,Bang Khun Thian,13.64187,100.43535,Shared room,13852,1,0,,0.0,1,90,0,True,False,0.2465753424657534,9.536257094657879
+28497814.0,"PerFect Home - Sukhumvit 16, Bangkok",178846375,Kwankamol,Khlong Toei,13.7289,100.56219,Entire home/apt,8000,1,6,2020-01-01,0.12,3,330,0,True,False,0.9041095890410958,8.987321812850125
+28646310.0,Better Moon guesthouse,163545528,Papawee,Vadhana,13.70784,100.60166,Entire home/apt,18000,1,0,,0.0,10,296,0,True,False,0.810958904109589,9.798182590890704
+28503174.0,scc residence,109989043,Saran,Vadhana,13.7393,100.56711,Private room,38000,30,0,,0.0,1,365,0,True,False,1.0,10.545367754151743
+28546432.0,Big Room with Gym and Pool from BTS Punnawithi,111855139,Tanut,Phra Khanong,13.69127,100.61332,Entire home/apt,15000,30,20,2020-08-21,0.41,1,365,0,True,False,1.0,9.61587214452889
+28548711.0,Amdaeng Bangkok riverside,209862937,Amdaeng,Khlong San,13.73513,100.50809,Private room,9286,1,5,2022-09-24,0.1,2,262,3,True,False,0.7178082191780822,9.13637085177601
+28590412.0,BTS Nana Deluxe Corner Room - Shopping - Nightlife - Central,215328104,Nutcha,Vadhana,13.74304,100.55513,Private room,10000,1,0,,0.0,21,365,0,True,False,1.0,9.210440366976517
+28590418.0,Deluxe Room - Central Sukhumvit - Free Wifi - Gym Nana BTS,215328104,Nutcha,Vadhana,13.74325,100.55497,Private room,10000,1,0,,0.0,21,365,0,True,False,1.0,9.210440366976517
+28590445.0,Junior Suite - With Breakfast - 5 Min To Nana BTS,215328104,Nutcha,Khlong Toei,13.74149,100.55364,Private room,10000,1,0,,0.0,21,365,0,True,False,1.0,9.210440366976517
+28590455.0,Deluxe Room - With Breakfast - Free Wifi - Gym Nana BTS,215328104,Nutcha,Vadhana,13.74242,100.55542,Private room,10000,1,0,,0.0,21,365,0,True,False,1.0,9.210440366976517
+28590460.0,Deluxe Terrace - With Breakfast - Boulevard Hotel Bangkok,215328104,Nutcha,Khlong Toei,13.741,100.55322,Private room,10000,1,0,,0.0,21,365,0,True,False,1.0,9.210440366976517
+28590474.0,Deluxe Family Connecting Room - With Breakfast - 5 Min To Nana BTS,215328104,Nutcha,Vadhana,13.74283,100.55529,Private room,10000,1,0,,0.0,21,365,0,True,False,1.0,9.210440366976517
+28590488.0,BTS Nana Deluxe Corner Room - With Breakfast - Boulevard Hotel Bangkok,215328104,Nutcha,Vadhana,13.74278,100.5553,Private room,10000,1,1,2019-04-21,0.02,21,365,0,True,False,1.0,9.210440366976517
+29292829.0,Room with Balcony-BTS victory monument & Duty Free,106770037,Le Tada Residence,Ratchathewi,13.76187,100.54038,Hotel room,8181,1,1,2019-01-30,0.02,2,320,0,True,False,0.8767123287671232,9.009691898489343
+29325880.0,Chimelong Apartment,116013982,海纳,Bang Rak,13.7253,100.51573,Entire home/apt,18701,1,0,,0.0,1,365,0,True,False,1.0,9.836385748995392
+29135949.0,La Citta Penthouse Thonglor 8,219556869,Chanya,Vadhana,13.73098,100.58264,Private room,8000,3,1,2019-12-21,0.03,1,90,0,True,False,0.2465753424657534,8.987321812850125
+28877331.0,2BR Centric Ratchada@MRT Huai Khwang By Triple B,164560603,Triple B,Din Daeng,13.78066,100.5728,Entire home/apt,12000,28,2,2019-09-30,0.04,3,180,0,True,False,0.4931506849315068,9.392745258631441
+29192054.0,2Br Presidential Suite Courtyard near Tonglor BTS,219983414,Matta,Khlong Toei,13.72256,100.5747,Entire home/apt,9214,1,17,2022-12-06,0.49,7,315,15,True,False,0.863013698630137,9.128587870103924
+29194706.0,Eight Thonglor Residence,219996296,Sirinat,Vadhana,13.7299,100.5822,Private room,75000,1,0,,0.0,1,365,0,True,False,1.0,11.225256725762893
+29475548.0,Amazing House with Roof-Top Pool in Thonglor,222000961,Ning,Vadhana,13.73746,100.58202,Entire home/apt,20000,2,57,2022-12-13,1.13,6,282,10,True,False,0.7726027397260274,9.90353755128617
+29916668.0,"1BRRiverView,70sqmBreakfast-ChatriumHotelAsiatique",163816479,Chatrium Riverside RSVN Team,Bang Kho Laem,13.71063,100.51009,Hotel room,14630,1,2,2021-01-02,0.08,6,1,0,True,False,0.0027397260273972603,9.590897844378162
+29524710.0,Modern & Luxury Home in the heart of Thonglor,222000961,Ning,Vadhana,13.73746,100.58202,Entire home/apt,11286,2,21,2022-11-27,0.42,6,319,2,True,False,0.873972602739726,9.331406899955626
+29526819.0,Modern Deluxe Private Double Bed (2 adults),51074483,Nuttawut,Pathum Wan,13.74936,100.52893,Private room,300000,1,0,,0.0,5,365,0,True,False,1.0,12.611541086966115
+29527773.0,Luxury Stay in Central Bangkok With Roof-top Pool,222000961,Ning,Vadhana,13.73746,100.58202,Entire home/apt,12000,2,40,2022-09-05,0.81,6,282,9,True,False,0.7726027397260274,9.392745258631441
+29537263.0,Beautiful Super Modern Gigantic Designer Home,5711286,Susan,Vadhana,13.71371,100.59715,Entire home/apt,9800,2,62,2022-12-17,1.23,4,296,21,True,False,0.810958904109589,9.19023970026918
+29694068.0,Luxury City View/Daily Breakfast/5mins to Skytrain,64263937,Tower Club At Lebua,Bang Rak,13.721257,100.516884,Private room,17791,1,0,,0.0,11,92,0,True,False,0.25205479452054796,9.78650419705031
+29694733.0,Luxury River View/Daily Breakfast/5min to Skytrain,64263937,Tower Club At Lebua,Bang Rak,13.721205,100.517212,Private room,18813,1,1,2019-10-08,0.03,11,92,0,True,False,0.25205479452054796,9.842356552531896
+29559372.0,บ้านดอกไม้,222546098,แบลร์,Chom Thong,13.69926,100.45997,Entire home/apt,9887,1,0,,0.0,1,365,0,True,False,1.0,9.199077179697472
+29743029.0,"Neveu:The Boutique, 5 bedrooms Apt@MRT Sutthisan",29488167,Potae Pongthorn,Huai Khwang,13.79027,100.57494,Entire home/apt,8111,1,66,2022-12-21,1.34,9,297,20,True,False,0.8136986301369863,9.001099725830965
+29773613.0,4 Bedrooms House with 7 Beds -15% week -30% month,224006540,Ratchaklaw,Vadhana,13.73497,100.5735,Entire home/apt,60000,3,35,2021-06-30,0.72,1,365,0,True,False,1.0,11.002116507732017
+30006336.0,Eclectic Artistic 3 br Copper Bath,218562,Jesse,Vadhana,13.74106,100.58049,Entire home/apt,9071,1,26,2022-12-04,0.52,2,104,3,True,False,0.28493150684931506,9.112948025967533
+30268302.0,Baan Soonvichai [Spacious 8+People House.Rooftop],9517747,Kirati,Huai Khwang,13.74725,100.58941,Entire home/apt,9000,2,1,2019-01-01,0.02,1,83,0,True,False,0.2273972602739726,9.105090961257085
+30329004.0,Pimarn Mansion (PM10),196946794,Penn,Sathon,13.72103,100.53256,Private room,70000,1,0,,0.0,1,365,0,True,False,1.0,11.156264806643742
+30081291.0,"PerFect Home 404-Sukhumvit16,Bangkok(Asoke)",178846375,Kwankamol,Khlong Toei,13.7264,100.56154,Entire home/apt,14000,1,2,2022-09-08,0.05,3,330,1,True,False,0.9041095890410958,9.546884034617925
+29869855.0,Lumpini Ville Prachachuen-Pongpetch 2,41209324,Sasithorn,Bang Sue,13.84667,100.5413,Private room,9000,5,0,,0.0,1,365,0,True,False,1.0,9.105090961257085
+30329172.0,European Design In The City Near Shopping Mall,226941360,Patawan,Vadhana,13.74248,100.5577,Hotel room,23671,1,0,,0.0,6,89,0,True,False,0.24383561643835616,10.072048194080045
+29909847.0,"BTS轻轨线on nut站,全新一房一厅,临Tesco商场市集!New cozy 1BR",210559448,Cora,Khlong Toei,13.70333,100.59247,Entire home/apt,1000000,2,69,2020-03-12,1.39,6,90,0,True,False,0.2465753424657534,13.815511557963774
+29912389.0,Huge Living & Bedroom with Bathtub | Rooftop Pool,153832629,Thea Serviced Apartment,Vadhana,13.73038,100.59195,Entire home/apt,8063,1,2,2020-12-27,0.05,3,113,0,True,False,0.3095890410958904,8.99516499031115
+30555811.0,Spacious&comfort room 3bed4pak3min to bts thonglor,229254852,YoyoSuper,Khlong Toei,13.72137,100.57605,Private room,100000,1,13,2019-04-16,0.26,1,89,0,True,False,0.24383561643835616,11.51293546492023
+30163038.0,"Grand3BR,140sqm,Kid'sClub,Free Wifi,Near BRT",8717079,Kriengsak,Yan Nawa,13.70331,100.53677,Hotel room,15243,1,0,,0.0,8,347,0,True,False,0.9506849315068493,9.63194126199375
+30193624.0,Luxury house with 24 security just 15 mins to city,95786100,Chawalit,Chom Thong,13.69904,100.43778,Entire home/apt,30000,7,0,,0.0,1,173,0,True,False,0.473972602739726,10.308985993422082
+30225822.0,Cote Maison rama 3,226865644,FindMyHome,Yan Nawa,13.68378,100.54685,Entire home/apt,75000,180,0,,0.0,1,365,0,True,True,1.0,11.225256725762893
+30476846.0,BTS ONNUT one bedroom for 3,210559448,Cora,Khlong Toei,13.70319,100.59253,Entire home/apt,100000,2,61,2020-06-01,1.24,6,90,0,True,False,0.2465753424657534,11.51293546492023
+30731627.0,TC Green by Arm,183860520,Arm,Huai Khwang,13.75394,100.57637,Private room,10000,1,4,2019-03-10,0.08,1,365,0,True,False,1.0,9.210440366976517
+30881223.0,"Stay safe in your own whole floor, 5 Bedrooms",91934777,Vichak,Huai Khwang,13.7689,100.57991,Private room,12859,1,11,2019-12-12,0.25,25,271,0,True,False,0.7424657534246575,9.46187699779161
+31365499.0,"WH (Container style, twin bed, 2ppl, citycenter-B)",234881965,Napawadee,Khlong Toei,13.73635,100.55277,Private room,314841,1,16,2020-03-03,0.33,4,147,0,True,False,0.40273972602739727,12.659826204669193
+31365769.0,"WH (container, Double bed, 2ppl -F)",234881965,Napawadee,Khlong Toei,13.73514,100.55217,Private room,372227,1,24,2020-01-27,0.5,4,147,0,True,False,0.40273972602739727,12.827261848732618
+30898131.0,Regent home Bang son,230905156,Chinbunchorn,Bang Sue,13.81884,100.5285,Entire home/apt,12000,1,0,,0.0,1,270,0,True,False,0.7397260273972602,9.392745258631441
+30898135.0,河边舒适公寓,227943939,瞻远,Rat Burana,13.68236,100.49737,Entire home/apt,10000,6,1,2018-12-30,0.02,1,90,0,True,False,0.2465753424657534,9.210440366976517
+30914892.0,"☆3 Bedrooms Penthouse, big living ☆ Muji inspired",216709072,Nimit,Vadhana,13.73445,100.56805,Hotel room,8283,1,131,2022-12-11,2.67,5,329,33,True,False,0.9013698630136986,9.022081222515475
+31064616.0,"【ExLN:9min to BTS/MRT&Terminal21,Big Balcony,Quiet",20904996,Alissa,Khlong Toei,13.70432,100.59826,Private room,158314,1,2,2019-08-19,0.05,1,91,0,True,False,0.2493150684931507,11.972341998170865
+30945289.0,Two Bedroom Park View Deluxe Column Bangkok,229495124,Sasithorn,Khlong Toei,13.7332,100.56009,Hotel room,9857,1,1,2019-01-02,0.02,2,347,0,True,False,0.9506849315068493,9.196038587265322
+31018055.0,garden Hotel,196992262,Cc,Sathon,13.7131,100.51068,Private room,10313,6,2,2022-12-01,0.49,3,294,2,True,False,0.8054794520547945,9.241257474610904
+31270009.0,"Summer of'19, BTS Onnut station , brand new 1BR",210559448,Cora,Khlong Toei,13.70303,100.59221,Entire home/apt,100000,25,22,2020-02-16,0.46,6,88,0,True,False,0.2410958904109589,11.51293546492023
+31684795.0,"Bangkok Sky Boundless Pool 曼谷41层无边泳池,2019新地标,无敌夜景",237591353,珍,Bang Phlat,13.80122,100.51107,Entire home/apt,15000,1,6,2020-04-06,0.13,2,90,0,True,False,0.2465753424657534,9.61587214452889
+31685811.0,"Bangkok Sky Swimming Pool 曼谷新地标,天空无边泳池,270度无边夜景",237591353,珍,Bang Phlat,13.80111,100.50992,Entire home/apt,15000,1,4,2020-04-06,0.12,2,90,0,True,False,0.2465753424657534,9.61587214452889
+31364368.0,"WH (Container style, twin bed, 2ppl, citycenter-A)",234881965,Napawadee,Khlong Toei,13.73505,100.55239,Private room,314899,1,4,2020-02-24,0.1,4,147,0,True,False,0.40273972602739727,12.660010407089116
+31720498.0,คอนโดเช่ารายเดือนติดรถไฟฟ้าเพียง150 เมตร,204109833,Antz,Thon Buri,13.72068,100.49159,Private room,22000,1,0,,0.0,1,365,0,True,False,1.0,9.99884318585288
+31772032.0,Outdoor Jacuzzi Huge Terrace | 2 Lux BR 7 Min BTS,153832629,Thea Serviced Apartment,Vadhana,13.7282,100.59065,Entire home/apt,10863,1,2,2022-07-22,0.34,3,106,2,True,False,0.29041095890410956,9.293209849798478
+31836799.0,Balcony with comfortable bay window,238599306,Zechariah,Ratchathewi,13.75732,100.53323,Shared room,20895,1,0,,0.0,1,365,0,True,False,1.0,9.947313032076158
+31886184.0,Chang Chui Bangkok 0.4 km Khoa San Road 4.2 km,160844163,Supranee,Bangkok Noi,13.78455,100.46882,Private room,12397,1,1,2019-12-26,0.03,2,181,0,True,False,0.4958904109589041,9.425290448261865
+32126314.0,"5BR Villa with Patio, 400m MRT ❤ city with BBQ",95548084,Mod Apiluk,Huai Khwang,13.79341,100.57585,Entire home/apt,9739,1,44,2022-12-11,0.98,25,73,11,True,False,0.2,9.18399639663658
+32574408.0,"Duplex (2 floors) condo near Emporium, EmQuatier",38659806,Bank,Khlong Toei,13.72474,100.56813,Entire home/apt,10000,7,9,2022-11-02,0.47,2,92,8,True,False,0.25205479452054796,9.210440366976517
+32365809.0,Riverside Thai chic wooden house (Deluxe Studio),150208988,Chann,Bangkok Noi,13.76246,100.48785,Entire home/apt,8500,1,0,,0.0,11,362,0,True,False,0.9917808219178083,9.04793908261736
+32854199.0,AMAZING 5-Star 90 sqm Duplex in the Heart of City,11695903,Dan,Khlong Toei,13.7224,100.56752,Entire home/apt,12209,31,36,2022-09-01,0.78,4,364,15,True,True,0.9972602739726028,9.41001056710475
+32392160.0,Central Sukhumvit - Superior Room - Close To Nana BTS,215328104,Nutcha,Vadhana,13.74238,100.55544,Private room,10000,1,0,,0.0,21,365,0,True,False,1.0,9.210440366976517
+32392185.0,Central Sukhumvit - Superior Room - Close To Nana BTS,215328104,Nutcha,Khlong Toei,13.74093,100.55486,Private room,10000,1,0,,0.0,21,365,0,True,False,1.0,9.210440366976517
+32414759.0,Longterm & Romantic flat of living escape Bangkok,229695467,Tonyfan,Huai Khwang,13.7549,100.57486,Entire home/apt,18000,360,0,,0.0,1,358,0,True,True,0.9808219178082191,9.798182590890704
+32437682.0,❤️EmQuartier-Terminal21-Siam❤️SkyTrain❤️CityCenter,243654968,Viia,Vadhana,13.73218,100.57618,Entire home/apt,9338,1,91,2022-12-06,1.94,6,140,25,True,False,0.3835616438356164,9.141954459109717
+33025678.0,Luxury Design Condo in the heart of Bangkok,3222935,Jerry,Yan Nawa,13.69299,100.54462,Entire home/apt,20000,1,0,,0.0,1,365,0,True,False,1.0,9.90353755128617
+32729697.0,BTS Sukhumvit Onnut 站 全新一房一厅One new condo one BR,210559448,Cora,Khlong Toei,13.70371,100.59211,Entire home/apt,100000,2,10,2020-02-28,0.23,6,90,0,True,False,0.2465753424657534,11.51293546492023
+33035905.0,"Pool Villa @ Donmaung 4 Bedrooms, 2King&2Queen bed",248396375,Amy,Don Mueang,13.94953,100.61725,Private room,8654,1,25,2021-02-27,0.55,5,350,0,True,False,0.958904109589041,9.06589246761031
+32752548.0,Designer’s House on Quiet Road in Chinatown,185136138,Intukarn,Samphanthawong,13.73976,100.50546,Entire home/apt,8771,2,61,2022-12-22,1.36,1,316,22,True,False,0.8657534246575342,9.079320109537779
+32949536.0,"New 7BR EntireVilla 11Bath,JJ Market MRT/BTS 24PPL",231041483,Piti,Chatuchak,13.80087,100.55589,Entire home/apt,9713,1,32,2022-12-12,0.71,3,134,15,True,False,0.36712328767123287,9.18132342290569
+33077452.0,Pool Villa @ Donmuang 3 Bedrooms,248396375,Amy,Don Mueang,13.94982,100.61614,Private room,7723,1,6,2022-07-17,0.14,5,261,1,True,False,0.7150684931506849,8.952087643548404
+32977143.0,TC​ Green condominium rama9​,204157229,Pimlada,Suan Luang,13.74228,100.62171,Private room,12000,365,0,,0.0,2,365,0,True,True,1.0,9.392745258631441
+32978696.0,supalai veranda ratchavipha-prachachuen,204157229,Pimlada,Chatuchak,13.82828,100.53899,Private room,12000,365,0,,0.0,2,364,0,True,True,0.9972602739726028,9.392745258631441
+33359778.0,(W4) 2 bedrooms 4-6 guests+kitchen 1min to BTS,80028780,ปกรณ์,Khlong San,13.72111,100.49538,Entire home/apt,53263,2,35,2020-03-11,0.78,4,271,0,True,False,0.7424657534246575,10.883015959814806
+33360075.0,(W5) 2 bedrooms 4-6 guests+kitchen 1min to BTS,80028780,ปกรณ์,Khlong San,13.71912,100.49455,Entire home/apt,53411,2,39,2020-03-16,0.87,4,56,0,True,False,0.15342465753424658,10.885790718803854
+33177076.0,"Luxury Thai Villa ,BTS Thonglor (Residence Area)",43163192,Yuko Wayuwan,Vadhana,13.73713,100.58222,Entire home/apt,8000,1,6,2022-07-02,0.13,1,172,2,True,False,0.4712328767123288,8.987321812850125
+33235857.0,POOL VILLA*8BR*8BD*SKY TRAIN*ICONSIAM,85203478,Ed,Khlong San,13.71823215,100.5009384,Entire home/apt,14943,1,7,2022-12-16,0.16,2,311,4,True,False,0.852054794520548,9.612065160468624
+33593683.0,Unique apartment in thonglo,253148010,Nita,Vadhana,13.72107,100.58731,Entire home/apt,12000,1,2,2019-05-19,0.04,1,365,0,True,False,1.0,9.392745258631441
+33596210.0,Entire Villa Royal Riverside Villa,10927578,Air,Dusit,13.78571,100.50841,Private room,25000,1,16,2020-01-06,0.36,2,358,0,True,False,0.9808219178082191,10.12667110305036
+33445396.0,Cozy home in Bangkok 2min to Khaosan Road,147884203,View & Duck,Phra Nakhon,13.76119,100.50195,Private room,12000,1,10,2022-08-28,0.23,4,356,1,True,False,0.9753424657534246,9.392745258631441
+33629470.0,"BTS Ekkamai, Pinocchio house :D",74200744,Pimchaya,Vadhana,13.73532,100.58771,Private room,8000,1,19,2020-03-07,0.43,5,41,0,True,False,0.11232876712328767,8.987321812850125
+33815713.0,Stunning Luxury Royal RiverHouse-4B.Riverside,108262170,Pim Lada,Dusit,13.78485,100.50896,Entire home/apt,9900,1,0,,0.0,4,355,0,True,False,0.9726027397260274,9.200391041122515
+33680572.0,Pacific Residence Hotel (3-Bedroom Suite ),252076709,Pacific,Vadhana,13.72632,100.59151,Entire home/apt,7643,1,0,,0.0,6,361,0,True,False,0.989041095890411,8.941676305360163
+33699209.0,Dahla Home,254019056,ดาหลา,Taling Chan,13.79243,100.41483,Entire home/apt,9900,1,0,,0.0,1,180,0,True,False,0.4931506849315068,9.200391041122515
+33789807.0,Wynn Condo Ladprao-Chokchai 4 เฟอร์ครบ,254920063,Chalermpol,Wang Thonglang,13.79961,100.5955,Entire home/apt,9000,120,0,,0.0,1,179,0,True,True,0.4904109589041096,9.105090961257085
+33915566.0,บ้านเช่า Style Contemporary ซอยประชาชื่น 12,97747670,Pornthip,Bang Sue,13.81601,100.53369,Entire home/apt,32000,12,0,,0.0,1,365,0,True,False,1.0,10.373522431293592
+34189140.0,Hidden Gem in Asoke / Good offer for family,257460041,Dandora,Khlong Toei,13.72979,100.55982,Private room,8000,1,0,,0.0,4,362,0,True,False,0.9917808219178083,8.987321812850125
+34533322.0,"Haiyin City, parent-child warm loft two-bedroom",258127790,天庭,Pom Prap Sattru Phai,13.74517,100.51027,Entire home/apt,18355,1,0,,0.0,1,365,0,True,False,1.0,9.817711775514724
+34535108.0,MIQ_house/Asok BTS/Designed home/Resort Pool/16pax,35082871,Ed,Khlong Toei,13.72751,100.56122,Entire home/apt,30000,51,13,2020-03-09,0.32,33,270,0,True,True,0.7397260273972602,10.308985993422082
+34535133.0,"MIQ_H_5 BR/Silom BTS,MRT/Wifi 1000MB/Jacuzzi/16pax",35082871,Ed,Bang Rak,13.72982,100.52227,Entire home/apt,8071,1,70,2022-12-03,1.65,33,320,27,True,False,0.8767123287671232,8.996156562033445
+34605627.0,Condo​ for rent​,260712432,Hubstep004,Bang Khae,13.71351,100.4055,Private room,12000,1,0,,0.0,1,358,0,True,False,0.9808219178082191,9.392745258631441
+34689872.0,"Bangkok Shortstay, 3 bedroom apartment",261682047,Bangkok Shortstay,Vadhana,13.73693,100.5705,Hotel room,8839,1,5,2022-12-09,0.87,2,85,5,True,False,0.2328767123287671,9.08704215563169
+34871032.0,The coast Bangkok,213690780,Worralak,Bang Na,13.66121,100.60057,Entire home/apt,13200,365,0,,0.0,1,365,0,True,True,1.0,9.488047863280759
+34734570.0,One BR Suite · One BR Suite · One BR Suite · One BR Suite · One BR Suite · One BR Suite · One BR Suite · Asok One-Bedroom Suite,1223500,Rembrandt Hotel & Suites,Khlong Toei,13.7335,100.56352,Hotel room,8914,1,0,,0.0,4,166,0,True,False,0.4547945205479452,9.09549053029724
+34355116.0,Huge entire Villa | Gargen | 400m MRT ❤ city I BBQ,95548084,Mod Apiluk,Huai Khwang,13.79341,100.57585,Entire home/apt,10750,1,19,2022-12-03,0.44,25,73,1,True,False,0.2,9.282754052485227
+34761209.0,Deluxe Room,1223500,Rembrandt Hotel & Suites,Khlong Toei,13.73138,100.56418,Private room,11614,1,0,,0.0,4,365,0,True,False,1.0,9.36005264520451
+35043601.0,72+ ppl stay in siam hostel in middle of bangkok,187894052,SiamStadium,Pathum Wan,13.74759,100.52394,Shared room,31200,1,0,,0.0,4,360,0,True,False,0.9863013698630136,10.348205424565993
+34789775.0,Family Room · Bangkok best Family holiday room,1223500,Rembrandt Hotel & Suites,Khlong Toei,13.73351,100.56338,Hotel room,8109,1,0,,0.0,4,352,0,True,False,0.9643835616438357,9.000853147109458
+34892264.0,บ้านเดี่ยว2ชั้น​ พร้อมสระว่ายน้ํา​ และสนามหญ้า,262998687,Korawit,Khlong Sam Wa,13.87029,100.71388,Entire home/apt,12000,1,1,2019-06-02,0.02,2,89,0,True,False,0.24383561643835616,9.392745258631441
+35117594.0,"For rent Life Phahon Ari (15,000B/m) full furnitur",264510256,นภดล,Phaya Thai,13.79415,100.54884,Entire home/apt,15000,365,0,,0.0,1,363,0,True,True,0.9945205479452055,9.61587214452889
+34987489.0,"Bangkok Shortstay, 2 bedroom apartment",261682047,Bangkok Shortstay,Vadhana,13.73679,100.5705,Hotel room,7929,1,0,,0.0,2,80,0,True,False,0.2191780821917808,8.978408314628894
+34991613.0,comfortable Sukhumvit15 free shuttle @Asok Station,106232126,Kannaphat,Vadhana,13.74465,100.55926,Entire home/apt,7990,1,13,2022-12-13,0.32,3,351,7,True,False,0.9616438356164384,8.986071187374463
+35430734.0,2bedroom suite / 300 meters to Queen sirikit,266647625,Moun,Khlong Toei,13.72682,100.56119,Entire home/apt,20000,30,0,,0.0,1,179,0,True,False,0.4904109589041096,9.90353755128617
+35219204.0,"cozy living@korea town>AsokBTS>MRT,4BD",106232126,Kannaphat,Vadhana,13.74395,100.55776,Private room,7900,4,1,2020-01-21,0.03,3,263,0,True,False,0.7205479452054795,8.974744612722734
+35294398.0,Smanro hotel,265730214,Edwina,Bang Rak,13.72626,100.52267,Entire home/apt,8005,1,0,,0.0,1,365,0,True,False,1.0,8.987946539552519
+35589034.0,เดอะนิช ไอดี ลาดพร้าววังหิน,266536834,P,Lat Phrao,13.8069,100.59251,Private room,8000,30,0,,0.0,1,365,0,True,False,1.0,8.987321812850125
+35296126.0,Sen long apartment,265742033,Bishop,Bang Rak,13.72661,100.53725,Entire home/apt,7862,1,0,,0.0,1,365,0,True,False,1.0,8.969923491991516
+35363478.0,OCEAN SUITE,264652649,Sirichok,Chatuchak,13.80344,100.56545,Hotel room,9500,1,0,,0.0,1,365,0,True,False,1.0,9.15915233520675
+36395508.0,Condo The nice MONO Ratchavipa,273670764,Pansak,Bang Sue,13.83214,100.53936,Entire home/apt,10000,90,0,,0.0,1,271,0,True,True,0.7424657534246575,9.210440366976517
+36397956.0,"Neveu:The Casa, 5 bedrooms Apt@MRT Sutthisan",29488167,Potae Pongthorn,Din Daeng,13.79078,100.57375,Entire home/apt,8573,1,39,2022-12-18,0.94,9,308,28,True,False,0.8438356164383561,9.056489647157923
+36016684.0,อโศก รัชดา ใกล้แหล่งช๊อปปิ้ง เดินทางสะดวก,270964682,Chokchai,Huai Khwang,13.74948,100.59695,Entire home/apt,10000,30,0,,0.0,1,180,0,True,False,0.4931506849315068,9.210440366976517
+36401353.0,mali. 1MIN to Ploenchit BTS/ 4BR Duplex Penthouse,269394073,Mali,Pathum Wan,13.74265,100.54932,Entire home/apt,8881,1,101,2022-12-25,2.4,2,251,46,True,False,0.6876712328767123,9.091782035852047
+35871371.0,Lumpini park riverside rama 3,269808983,Oum,Yan Nawa,13.67832,100.52669,Private room,10000,365,0,,0.0,1,365,0,True,True,1.0,9.210440366976517
+36096845.0,"100-Year City Center Villa ""Breakfast & Cleaning",265189353,Poom And Fon,Pathum Wan,13.73694,100.55107,Entire home/apt,10466,2,53,2022-12-14,1.24,1,269,7,True,False,0.736986301369863,9.255982729854884
+36222667.0,Rama9 big space family home,264084728,Wayne,Huai Khwang,13.75965,100.56938,Entire home/apt,30000,30,0,,0.0,2,174,0,True,False,0.4767123287671233,10.308985993422082
+36547795.0,Vintage FAMILY SUITE in Bangkok old town,214236911,Jason,Phra Nakhon,13.757,100.50468,Private room,8600,1,0,,0.0,6,281,0,True,False,0.7698630136986301,9.059633754551479
+36708244.0,use Blue Chang,275915431,Wiset,Pathum Wan,13.73918,100.5309,Entire home/apt,17904,1,0,,0.0,1,365,0,True,False,1.0,9.792835282432533
+36742547.0,Luxurious 4 BR super clean Thonglor near BTS,275495632,Nicky,Vadhana,13.72949,100.57784,Entire home/apt,9776,2,1,2020-01-01,0.03,2,117,0,True,False,0.32054794520547947,9.18778796750567
+36589910.0,Ruan Rong Rong Resort & Spa,275033545,William,Bang Rak,13.72732,100.5284,Entire home/apt,15249,1,0,,0.0,1,364,0,True,False,0.9972602739726028,9.632334782035558
+36761387.0,Cozy Place resort style on Sukhumvit Line,267181587,Connie,Bang Na,13.67609,100.60884,Private room,8000,1,0,,0.0,9,90,0,True,False,0.2465753424657534,8.987321812850125
+36761595.0,Cozy Place resort style on Sukhumvit Line,267181587,Connie,Bang Na,13.67763,100.61105,Private room,10000,1,0,,0.0,9,90,0,True,False,0.2465753424657534,9.210440366976517
+36761860.0,Duplex cozy Place resort style on Sukhumvit Line,267181587,Connie,Bang Na,13.67634,100.61033,Private room,15000,1,0,,0.0,9,30,0,True,False,0.0821917808219178,9.61587214452889
+36761968.0,Pool view in resort style on Sukhumvit Line,267181587,Connie,Bang Na,13.67688,100.61104,Private room,10000,1,0,,0.0,9,30,0,True,False,0.0821917808219178,9.210440366976517
+36762091.0,Cozy Place resort style on Sukhumvit Line,267181587,Connie,Bang Na,13.67655,100.60924,Private room,90000,1,0,,0.0,9,28,0,True,False,0.07671232876712329,11.407576060361786
+36762199.0,Pool view in resort style on Sukhumvit Line,267181587,Connie,Bang Na,13.67836,100.61015,Private room,10000,1,0,,0.0,9,28,0,True,False,0.07671232876712329,9.210440366976517
+36762316.0,Cozy Place resort style on Sukhumvit Line,267181587,Connie,Bang Na,13.67756,100.61079,Private room,9000,1,0,,0.0,9,28,0,True,False,0.07671232876712329,9.105090961257085
+36762651.0,Pool view in resort style on Sukhumvit Line,267181587,Connie,Bang Na,13.67617,100.61016,Private room,12000,1,0,,0.0,9,28,0,True,False,0.07671232876712329,9.392745258631441
+36762816.0,Garden Exit in resort style on Sukhumvit Line,267181587,Connie,Bang Na,13.67692,100.60881,Entire home/apt,9000,1,0,,0.0,9,28,0,True,False,0.07671232876712329,9.105090961257085
+36651266.0,BBB Inn,275485256,Narai,Pathum Wan,13.73498,100.54872,Entire home/apt,17489,1,0,,0.0,1,365,0,True,False,1.0,9.769384568012647
+36381441.0,Condo in On Nut for three months 10k THB,273563205,Anthony,Suan Luang,13.71296,100.60606,Entire home/apt,10000,180,0,,0.0,1,365,0,True,True,1.0,9.210440366976517
+36651372.0,New Suanmali hotel,275484995,Steve,Taling Chan,13.77766,100.45726,Entire home/apt,15493,1,0,,0.0,1,365,0,True,False,1.0,9.648208131191847
+36651934.0,Triple Two Silom,275488719,Edna,Din Daeng,13.78071,100.57281,Entire home/apt,15243,1,0,,0.0,1,365,0,True,False,1.0,9.63194126199375
+36652425.0,The Garden Place Bangkok,275490884,Maurice,Phra Nakhon,13.75889,100.49664,Entire home/apt,17212,1,0,,0.0,1,365,0,True,False,1.0,9.753420191271506
+36820954.0,LUXURY PH 5 BR Ploenchit FREE PRIVATE VAN SERVICE,275495632,Nicky,Pathum Wan,13.73855,100.54852,Entire home/apt,89215,2,6,2020-02-02,0.15,2,57,0,True,False,0.15616438356164383,11.398815674680142
+36652919.0,FuramaXclusive Sukhumvit,275493372,Wayne,Bang Rak,13.72813,100.52543,Entire home/apt,17662,1,0,,0.0,1,365,0,True,False,1.0,9.779227335155444
+36653660.0,Holiday Inn Bangkok,275497475,William,Pathum Wan,13.74935,100.51981,Entire home/apt,17662,1,0,,0.0,1,365,0,True,False,1.0,9.779227335155444
+36656956.0,The Siam Heritage Hotel,275518333,Munoz,Bang Rak,13.72835,100.53119,Entire home/apt,15342,1,0,,0.0,1,365,0,True,False,1.0,9.638414622945206
+36707748.0,otel Hotel Tranz,275912502,Chantara,Ratchathewi,13.7508,100.52932,Entire home/apt,17281,1,0,,0.0,1,365,0,True,False,1.0,9.757420776401345
+37092330.0,Elegant & Modern Bangkok Penthouse,32466688,Laaong,Vadhana,13.74319,100.56527,Entire home/apt,11286,2,33,2022-12-21,0.81,6,346,20,True,False,0.947945205479452,9.331406899955626
+37492314.0,Bangkok Skyline City View. Clean Luxury Condo,250693827,Alex,Din Daeng,13.75557,100.56419,Entire home/apt,15000,1,0,,0.0,1,181,0,True,False,0.4958904109589041,9.61587214452889
+37123486.0,Amazing Duplex | Sukhumvit's Fantasy,32466688,Laaong,Vadhana,13.74414,100.5672,Entire home/apt,10000,2,1,2022-12-14,1.0,6,354,1,True,False,0.9698630136986301,9.210440366976517
+37134868.0,Luxurious Room with Modern Bathtub close to BTS,186195358,The Continent Hotel Bangkok,Vadhana,13.736386,100.562057,Hotel room,7713,1,4,2022-04-16,0.11,5,362,2,True,False,0.9917808219178083,8.950792138768174
+37235547.0,Fate sky luxury apartment,280330578,Irma,Huai Khwang,13.79907,100.58264,Entire home/apt,7619,1,0,,0.0,1,180,0,True,False,0.4931506849315068,8.938531648680692
+37288085.0,"3 Bedr PENTHOUSE 30FL Balcony RIVER View, IconSiam",83585985,Harry,Khlong San,13.72301,100.50936,Entire home/apt,8048,2,64,2022-12-10,1.55,1,232,35,True,False,0.6356164383561644,8.993303139093733
+37842180.0,Joyful & Modern Home. Safe area with foods & 7-11,26904743,Metapon,Din Daeng,13.76464844,100.5659943,Entire home/apt,8957,1,8,2022-12-26,3.29,1,220,8,True,False,0.6027397260273972,9.100302266767246
+37712115.0,"Breezy Haus In Asoke (Pool, walk to BTS/MRT) # I",49539775,Max,Khlong Toei,13.72845,100.56006,Entire home/apt,9429,2,21,2022-12-15,0.51,36,74,7,True,False,0.20273972602739726,9.151651375627504
+37722631.0,"Breezy Haus In Asoke (Pool, walk to BTS/MRT) II",49539775,Max,Khlong Toei,13.72985,100.55976,Entire home/apt,10500,2,36,2022-12-08,0.88,36,108,6,True,False,0.2958904109589041,9.259225769705994
+38074535.0,"Private blue and white stylish house, 4Br 3Bathr.",20776923,Tan,Phaya Thai,13.78356,100.54422,Entire home/apt,8143,1,21,2022-12-18,0.52,1,326,5,True,False,0.8931506849315068,9.005036738790304
+38003654.0,[Staycation]Near Rot Fai Train Night Market Condo,263356033,Elements,Prawet,13.69655,100.64692,Entire home/apt,36950,1,8,2020-03-02,0.2,6,365,0,True,False,1.0,10.517347989609593
+38029386.0,"Breezy Haus In Asoke (Pool, walk to BTS/MRT)IV",49539775,Max,Khlong Toei,13.72879,100.56195,Entire home/apt,8643,2,19,2022-12-21,0.47,36,73,12,True,False,0.2,9.064620717626777
+38029519.0,"Breezy Haus In Asoke (Pool, walk to BTS/MRT)# III",49539775,Max,Khlong Toei,13.72722,100.56013,Entire home/apt,10143,2,28,2022-12-10,0.69,36,44,7,True,False,0.12054794520547946,9.224637676677007
+38741554.0,Stunning two bed apartment with luxury facilities,14421403,Tania,Khlong Toei,13.7132,100.59415,Entire home/apt,10000,3,0,,0.0,1,178,0,True,False,0.4876712328767123,9.210440366976517
+38743799.0,"Breezy Haus In Asoke (Pool, walk to BTS/MRT)",49539775,Max,Khlong Toei,13.72911,100.56015,Entire home/apt,9357,2,20,2022-12-19,0.51,36,62,8,True,False,0.16986301369863013,9.143986871426161
+38274232.0,"Monthly rental condo , center of Bangkok",86870192,Prin,Vadhana,13.7395,100.56319,Private room,38094,30,0,,0.0,1,180,0,True,False,0.4931506849315068,10.54783831890711
+38282765.0,บ้านเดี่ยว พร้อมสระว่ายน้ําส่วนตัว 200ตร.ว.,262998687,Korawit,Khlong Sam Wa,13.87035,100.71342,Entire home/apt,12000,1,0,,0.0,2,84,0,True,False,0.23013698630136986,9.392745258631441
+38863681.0,"BTS new condo 1BR for3. 全新一房公寓,Tesco&onnut BTS",210559448,Cora,Khlong Toei,13.70531,100.59127,Entire home/apt,100000,2,3,2020-06-07,0.08,6,89,0,True,False,0.24383561643835616,11.51293546492023
+38398808.0,"18 ppl, 6BR, 100m Short walk to BTS, Why stay far?",95548084,Mod Apiluk,Pathum Wan,13.743,100.54908,Entire home/apt,8643,1,9,2022-12-25,0.26,25,162,8,True,False,0.4438356164383562,9.064620717626777
+39139221.0,Bangkok for Big Groups | Whole Hostel w/ 100 beds,126601726,Patsiri,Khlong Toei,13.72712,100.57305,Private room,26000,1,0,,0.0,15,347,0,True,False,0.9506849315068493,10.165890277802454
+38685359.0,Luxury 3 Bedrooms House near BTS Thonglor station,8444643,Kiattisak,Khlong Toei,13.71594,100.57953,Entire home/apt,30000,1,0,,0.0,53,365,0,True,False,1.0,10.308985993422082
+39020187.0,APT476 | 2nd Fl. + 3rd Fl. | 1min walk to Subway,14335043,Tan,Pathum Wan,13.73831,100.51779,Entire home/apt,8292,1,30,2022-12-06,0.81,14,96,16,True,False,0.26301369863013696,9.023167064451204
+39034409.0,Nice sky pool view with Top panorama view,262121678,TH Travel,Bangkok Yai,13.7294,100.48368,Private room,7999,15,1,2019-10-04,0.03,2,90,0,True,False,0.2465753424657534,8.987196820661973
+39399112.0,Panoramic City View/Lounge Access/5min to Skytrain,64263937,Tower Club At Lebua,Bang Rak,13.721715,100.516922,Private room,18717,1,0,,0.0,11,92,0,True,False,0.25205479452054796,9.837240906717202
+39262424.0,Private room @ Wanghin 43 (near mrt ladprao),69459192,Atita,Lat Phrao,13.81754,100.5902,Entire home/apt,10000,10,0,,0.0,1,361,0,True,False,0.989041095890411,9.210440366976517
+39347834.0,@Songwad,302242975,Oad,Samphanthawong,13.73979,100.50494,Shared room,8000,1,0,,0.0,1,365,0,True,False,1.0,8.987321812850125
+39685481.0,Private House 1930s/Jacuzzi pool/5minMRT/Local,10211986,Napa,Bang Rak,13.73495,100.51719,Entire home/apt,8000,3,11,2022-12-10,0.29,3,58,3,True,False,0.1589041095890411,8.987321812850125
+39858231.0,1BR cozy condo close to ONNUT BTS.,210559448,Cora,Khlong Toei,13.70496,100.59151,Entire home/apt,1000000,25,2,2020-02-23,0.05,6,88,0,True,False,0.2410958904109589,13.815511557963774
+39901201.0,Best for family vacation! 5 Start Hotel facility,307342659,林林,Sathon,13.71605,100.53098,Entire home/apt,7999,180,6,2020-02-25,0.16,1,89,0,True,True,0.24383561643835616,8.987196820661973
+39929656.0,Rama 9 Condo,156853276,Poom,Huai Khwang,13.75439,100.57668,Private room,60000,1,0,,0.0,1,179,0,True,False,0.4904109589041096,11.002116507732017
+40120249.0,Noble Solo thonglor,89941468,Thirayuth,Vadhana,13.74128,100.58491,Private room,34631,360,0,,0.0,1,365,0,True,True,1.0,10.452533389121816
+39970606.0,★Close to everything! Modern condo near by subway★,300283180,Bee,Chatuchak,13.80308,100.58589,Entire home/apt,80000,30,19,2020-03-23,0.5,4,365,0,True,False,1.0,11.289794413577894
+40545038.0,2Bed Luxury Duplex city center near Thonglor BTS..,219983414,Matta,Khlong Toei,13.72202,100.57498,Entire home/apt,8681,1,23,2022-12-24,0.63,7,321,13,True,False,0.8794520547945206,9.06900719585954
+40572691.0,Airee 1098 : 5 bedrooms apartment at MRT Sutthisan,29488167,Potae Pongthorn,Din Daeng,13.78836,100.56451,Entire home/apt,8111,2,8,2022-11-21,0.22,9,337,3,True,False,0.9232876712328767,9.001099725830965
+40291286.0,Airee 1100 : 5 bedrooms apartment at MRT Sutthisan,29488167,Potae Pongthorn,Din Daeng,13.78836,100.56948,Entire home/apt,9463,2,7,2022-12-10,0.19,9,340,2,True,False,0.9315068493150684,9.155250405658222
+40453931.0,❤️BTS 300m_Monthly Special Price_WorkFromHome_7-11,243654968,Viia,Vadhana,13.72553,100.58145,Entire home/apt,9954,1,35,2022-12-13,0.94,6,228,18,True,False,0.6246575342465753,9.205830216498297
+40840306.0,Q❶曼谷市中心两房一厅!顶楼360度无边游泳池!BTS+机场快线+步行四面佛、暹罗广场、杰特宁医院,222512870,Yi,Pathum Wan,13.74896,100.54307,Entire home/apt,8000,28,5,2020-01-31,0.14,10,253,0,True,False,0.6931506849315069,8.987321812850125
+40497833.0,Charming 7-Bedroom for 20 persons/BKK view rooftop,20500449,Mallika,Phaya Thai,13.77422,100.53331,Private room,10000,1,3,2022-09-01,0.08,12,364,1,True,False,0.9972602739726028,9.210440366976517
+40524010.0,Luxury 3bedroom Suites at BTS Thonglo,37749512,LuxurySuitesAsia,Khlong Toei,13.72252274,100.5753098,Entire home/apt,8006,2,43,2022-11-29,1.19,14,355,20,True,False,0.9726027397260274,8.988071438072634
+41101164.0,"No.301, the Mustang Blu",321184297,Mustang,Pom Prap Sattru Phai,13.74019,100.51411,Private room,7600,1,28,2022-12-03,0.77,10,296,12,True,False,0.810958904109589,8.936035096566041
+41101378.0,"No.201, the Mustang Blu",321184297,Mustang,Pom Prap Sattru Phai,13.74003,100.5145,Private room,8200,1,12,2022-12-03,0.33,10,330,5,True,False,0.9041095890410958,9.012011377036412
+41202377.0,Condo For Rent Centric Ratchada - Huai Khwang,323269187,Niphaphan,Huai Khwang,13.78079,100.57479,Entire home/apt,17583,30,0,,0.0,1,89,0,True,False,0.24383561643835616,9.774744676643403
+41205194.0,Stunning luxury condo in Asoke area.,50347884,Min,Ratchathewi,13.74907,100.56167,Entire home/apt,10000,5,0,,0.0,1,181,0,True,False,0.4958904109589041,9.210440366976517
+41140017.0,3 BED Room/Full kitchen/near BTS Thonglor/Emporium,219983414,Matta,Khlong Toei,13.72463,100.57563,Private room,8571,2,1,2020-01-25,0.03,7,327,0,True,False,0.8958904109589041,9.056256356593467
+41462358.0,Deluxe Suite in Grand Mercure with rooftop pool,45414241,Banthueng,Vadhana,13.73922,100.55956,Entire home/apt,7933,1,1,2022-12-05,1.0,7,360,1,True,False,0.9863013698630136,8.978912601074276
+41244830.0,4 Luxury Bedroom with Full kitchen near Thonglor,219983414,Matta,Khlong Toei,13.7245,100.57562,Private room,16000,2,1,2022-08-04,0.2,7,330,1,True,False,0.9041095890410958,9.680406499268875
+41474363.0,Q❸曼谷市中心两房一厅!顶楼360度无边游泳池!BTS+机场快线+步行四面佛、暹罗广场、杰特宁医院,222512870,Yi,Pathum Wan,13.7483,100.54555,Entire home/apt,8000,28,3,2020-03-04,0.08,10,255,0,True,False,0.6986301369863014,8.987321812850125
+41654555.0,Laid back Place,328656645,Tikk,Vadhana,13.72041,100.59812,Private room,9000,31,0,,0.0,1,365,0,True,True,1.0,9.105090961257085
+41841752.0,Roof-top Pool Luxury Residence in trendy Thonglor,222000961,Ning,Vadhana,13.73746,100.58202,Entire home/apt,10000,2,13,2022-11-22,0.48,6,308,4,True,False,0.8438356164383561,9.210440366976517
+41842576.0,Entire Luxury House with Roof-Top Pool in Thonglor,222000961,Ning,Vadhana,13.73746,100.58202,Entire home/apt,28000,3,2,2022-12-02,0.23,6,277,2,True,False,0.7589041095890411,10.239995502805316
+42217929.0,Private 11 Bedrooms lux Villa near Thonglor BTS,219983414,Matta,Khlong Toei,13.72306,100.57404,Entire home/apt,31000,1,15,2022-12-15,1.15,7,299,14,True,False,0.8191780821917808,10.34177474101152
+42019054.0,Luxury 4 Suites (Zenithar Penthouse) 80%OFF,325514125,Headquarter,Vadhana,13.71406,100.5993,Entire home/apt,32123,2,9,2022-12-01,0.26,2,365,5,True,False,1.0,10.377358693308352
+42022786.0,Top Luxury Penthouse (Zenithar Penthouse) 80%OFF,105838235,Zenithar,Vadhana,13.71406,100.5993,Entire home/apt,20299,1,3,2022-04-10,0.09,1,180,1,True,False,0.4931506849315068,9.918376165029878
+42305223.0,7 bedrooms with shared kitchen near Thonglor BTS,219983414,Matta,Khlong Toei,13.72014,100.57334,Private room,28000,2,1,2020-03-08,0.03,7,319,0,True,False,0.873972602739726,10.239995502805316
+42027933.0,1BR- 55 sqm - Wireless RD - BTS Phloenchit,333053080,Siwaporn,Pathum Wan,13.74363,100.54542,Entire home/apt,7828,1,14,2022-11-08,0.4,2,176,7,True,False,0.4821917808219178,8.965590066907914
+42034108.0,"Pool Villa @ Donmuang 5 Bedrooms, 3 king&2Queen",248396375,Amy,Don Mueang,13.95074,100.61541,Private room,9953,1,14,2022-11-30,0.89,5,85,10,True,False,0.2328767123287671,9.2057297594185
+42041642.0,Penthouse 2 Suites(Zenithar Penthouse) 80%OFF!,325514125,Headquarter,Vadhana,13.71406,100.5993,Private room,20893,1,3,2020-02-11,0.09,2,180,0,True,False,0.4931506849315068,9.947217315397454
+42556587.0,"Ascott Sathorn Bangkok, 2 Bedroom Deluxe Apt",85221401,Soros,Sathon,13.71586,100.52019,Private room,14326,1,0,,0.0,6,360,0,True,False,0.9863013698630136,9.569901147893372
+42556650.0,"Ascott Sathorn Bangkok, 2 Bedroom Executive Apt",85221401,Soros,Sathon,13.71723,100.51813,Private room,16478,1,0,,0.0,6,361,0,True,False,0.989041095890411,9.70984212201073
+42556710.0,"Ascott Sathorn Bangkok, 3 Bedroom Executive Apt",85221401,Soros,Sathon,13.71765,100.51969,Private room,21119,1,0,,0.0,6,318,0,True,False,0.8712328767123287,9.957975737820197
+42557072.0,"Somerset Park Suanplu, 2 Bedroom Deluxe Apt",378750814,Rohan,Sathon,13.72268,100.53662,Entire home/apt,10156,1,0,,0.0,21,356,0,True,False,0.9753424657534246,9.2259184019395
+42557167.0,"Somerset Park Suanplu, 2 Bedroom Executive Apt",378750814,Rohan,Sathon,13.72263,100.53697,Entire home/apt,10559,1,0,,0.0,21,360,0,True,False,0.9863013698630136,9.264828557260252
+42557209.0,"Somerset Park Suanplu, 3 Bedroom Premier Apt",378750814,Rohan,Sathon,13.72276,100.53884,Entire home/apt,15234,1,0,,0.0,21,355,0,True,False,0.9726027397260274,9.63135069141981
+42560033.0,"Somerset Sukhumvit Thonglor, 1 Bedroom Premier Apt",378750814,Rohan,Vadhana,13.7282,100.58074,Entire home/apt,8306,1,0,,0.0,21,338,0,True,False,0.9260273972602739,9.02485381183907
+42560074.0,"Somerset Sukhumvit Thonglor, 2 Bedroom Executive",378750814,Rohan,Vadhana,13.72825,100.57925,Entire home/apt,10761,1,0,,0.0,21,319,0,True,False,0.873972602739726,9.283776690049365
+42561520.0,"Somerset Ekamai Bangkok, Two Bedroom Executive Apt",378750814,Rohan,Vadhana,13.72352,100.58728,Entire home/apt,11602,1,0,,0.0,21,352,0,True,False,0.9643835616438357,9.359018964347545
+42561563.0,"Somerset Ekamai Bangkok, Two Bedroom Premier Apt",378750814,Rohan,Vadhana,13.72354,100.58753,Entire home/apt,11602,1,0,,0.0,21,361,0,True,False,0.989041095890411,9.359018964347545
+42561603.0,"Somerset Ekamai Bangkok, Three Bedroom Deluxe Apt",378750814,Rohan,Vadhana,13.72218,100.5867,Entire home/apt,19841,1,0,,0.0,21,241,0,True,False,0.6602739726027397,9.895556182209848
+42469110.0,NEW! SPARKLE LUXURY -3FLOORS 6BR- 1 min BTS SILOM,159420966,Rajasit,Bang Rak,13.72586,100.52787,Entire home/apt,9590,2,2,2022-08-12,0.34,8,352,2,True,False,0.9643835616438357,9.16858043772795
+42631062.0,10minutes to Hua Mak station 3bedR. condo at 11Fl,124990965,John,Suan Luang,13.72512,100.62391,Entire home/apt,14827,21,0,,0.0,2,178,0,True,False,0.4876712328767123,9.604272564270623
+42550280.0,Adventure Homey Hostel,47052928,Adventure,Phaya Thai,13.79459,100.5485,Private room,8000,2,0,,0.0,1,180,0,True,False,0.4931506849315068,8.987321812850125
+42555841.0,"Ascott Sathorn Bangkok, Studio Premier",85221401,Soros,Sathon,13.71568,100.51963,Private room,8996,1,0,,0.0,6,359,0,True,False,0.9835616438356164,9.104646467417119
+42556362.0,"Ascott Sathorn Bangkok, One Bedroom Executive Apt",85221401,Soros,Sathon,13.71577,100.51805,Private room,10358,1,0,,0.0,6,361,0,True,False,0.989041095890411,9.245610986058102
+42556478.0,"Ascott Sathorn Bangkok, 1 Bedroom Premier Apt",85221401,Soros,Sathon,13.71695,100.51799,Private room,11871,1,0,,0.0,6,361,0,True,False,0.989041095890411,9.381937965407161
+42685153.0,The Prime Sukhumvit 11 - Room 29/150,337709866,Vatiaz,Vadhana,13.74426,100.55758,Private room,15143,999,0,,0.0,1,89,0,True,True,0.24383561643835616,9.625359692889159
+43173449.0,One Bedroom Deluxe @Oakwood Suites Bangkok,342783799,Apicha,Khlong Toei,13.72786,100.56788,Private room,10329,1,0,,0.0,9,359,0,True,False,0.9835616438356164,9.242807562113684
+43173504.0,Studio Deluxe Twin @Oakwood Suites Bangkok,342783799,Apicha,Khlong Toei,13.72882,100.56754,Private room,8829,1,0,,0.0,9,358,0,True,False,0.9808219178082191,9.085910293598007
+43173562.0,Studio Executive @ Oakwood Suites Bangkok,342783799,Apicha,Khlong Toei,13.72943,100.56942,Private room,9129,1,2,2022-06-24,0.32,9,364,2,True,False,0.9972602739726028,9.119320973589014
+43173776.0,Premier Apartment @Oakwood Suites Bangkok,342783799,Apicha,Khlong Toei,13.72895,100.5697,Private room,8829,1,0,,0.0,9,362,0,True,False,0.9917808219178083,9.085910293598007
+42979734.0,Unique condo near by subway Hui kwang,300283180,Bee,Din Daeng,13.77856,100.56611,Entire home/apt,80000,30,0,,0.0,4,365,0,True,False,1.0,11.289794413577894
+42979810.0,Unique place near by subway Huai Kwang,300283180,Bee,Din Daeng,13.78032,100.56656,Entire home/apt,80000,30,0,,0.0,4,365,0,True,False,1.0,11.289794413577894
+43054355.0,"Take whole house 800 sqm ,stay safe with family.",91934777,Vichak,Huai Khwang,13.76925,100.57796,Entire home/apt,9000,3,0,,0.0,25,180,0,True,False,0.4931506849315068,9.105090961257085
+43061995.0,Two Bedroom Deluxe @Oakwood Suites Bangkok,342783799,Apicha,Khlong Toei,13.72746,100.56772,Private room,14829,1,1,2022-10-16,0.41,9,353,1,True,False,0.9671232876712329,9.604407435131979
+43062043.0,One Bedroom Superior @Oakwood Suites Bangkok,342783799,Apicha,Khlong Toei,13.72963,100.56825,Private room,9829,1,1,2022-10-06,0.36,9,357,1,True,False,0.9780821917808219,9.193194213141211
+43062071.0,Studio Deluxe @ Oakwood Suites Bangkok,342783799,Apicha,Khlong Toei,13.7297,100.56898,Private room,8229,1,0,,0.0,9,353,0,True,False,0.9671232876712329,9.015541293671115
+43619274.0,TRENDY CONDO Sukhumvit 13 near BTS Nana,348276974,ชุติภา,Vadhana,13.7404,100.55827,Entire home/apt,30000,1,0,,0.0,1,91,0,True,False,0.2493150684931507,10.308985993422082
+43836933.0,2 BR - 85 sqm - Wireless RD - BTS Ploenchit,333053080,Siwaporn,Khlong Toei,13.73681,100.55167,Entire home/apt,16385,1,5,2022-08-26,0.17,2,365,3,True,False,1.0,9.70418259070176
+43749355.0,Deluxe Double Room,163514932,Praya Palazzo,Bang Phlat,13.76845,100.49427,Private room,7694,1,0,,0.0,4,261,0,True,False,0.7150684931506849,8.94832604627298
+43749830.0,Junior Suite Room,163514932,Praya Palazzo,Bang Phlat,13.7686,100.49317,Private room,9130,1,0,,0.0,4,274,0,True,False,0.7506849315068493,9.11943049661634
+43749896.0,Chao Praya Suite Room,163514932,Praya Palazzo,Bang Phlat,13.77058,100.49328,Private room,13840,1,0,,0.0,4,241,0,True,False,0.6602739726027397,9.535390480896702
+43873779.0,⭐ANTIQUE Pool Villa 400sqm ❤️Private Luxury❤️City,23208097,Tom,Sathon,13.72295,100.53922,Entire home/apt,17216,1,19,2022-12-09,0.64,2,28,9,True,False,0.07671232876712329,9.753652546776472
+43425684.0,ARIVA IVY THONGLOR,338752975,Thanidar,Vadhana,13.73809,100.58232,Private room,10000,1,0,,0.0,2,180,0,True,False,0.4931506849315068,9.210440366976517
+44425596.0,"Luxury Comfy room, built from the heart",358737886,Irene,Khlong San,13.7209,100.49392,Entire home/apt,9000,1,1,2020-07-31,0.03,1,365,0,True,False,1.0,9.105090961257085
+44452912.0,Private Condominium in Sukhumvit,268516140,Lai,Vadhana,13.74549,100.55537,Entire home/apt,30000,1,0,,0.0,1,365,0,True,False,1.0,10.308985993422082
+44482677.0,"Baan romyen The Natural Garden Villa,",45777299,Amarin,Nong Chok,13.83601,100.83202,Entire home/apt,8500,1,1,2020-12-20,0.04,1,179,0,True,False,0.4904109589041096,9.04793908261736
+43922699.0,Life sukhumvit 62,261203953,ศุภชัย,Phra Khanong,13.69388,100.60399,Private room,24242,365,0,,0.0,1,364,0,True,True,0.9972602739726028,10.095883194901557
+44561737.0,☆1 BR Cozy Room☆ 70 sq.m./ 300m to BTS Ekkamai,354568794,Hotel Plus,Khlong Toei,13.71776,100.58283,Private room,8183,1,0,,0.0,4,320,0,True,False,0.8767123287671232,9.009936307631463
+44561775.0,☆Family 2BR Japanese Style☆/ 300m. to BTS Ekkamai,354568794,Hotel Plus,Khlong Toei,13.71582,100.58278,Private room,12056,1,0,,0.0,4,319,0,True,False,0.873972602739726,9.397400683117311
+44561811.0,☆Family 2BR ☆ with 130 sq.m / 300m. to BTS Ekkamai,354568794,Hotel Plus,Khlong Toei,13.7159,100.5838,Private room,12343,1,0,,0.0,4,88,0,True,False,0.2410958904109589,9.420925394042996
+45302358.0,The Bangkok narathiwath -Chan,311663040,Kham,Sathon,13.70716,100.53628,Entire home/apt,9697,30,0,,0.0,2,179,0,True,False,0.4904109589041096,9.179674957665297
+44649518.0,Beautiful apartment in the heart of Bangkok.,113763042,Fah,Pathum Wan,13.73621,100.55118,Entire home/apt,9000,3,0,,0.0,1,365,0,True,False,1.0,9.105090961257085
+44256880.0,Central Sukhumvit - Superior Room - Close To Nana BTS,215328104,Nutcha,Vadhana,13.7368,100.56818,Private room,10000,1,0,,0.0,21,364,0,True,False,0.9972602739726028,9.210440366976517
+44256892.0,Central Sukhumvit - Superior Room - Close To Nana BTS,215328104,Nutcha,Vadhana,13.73467,100.56777,Private room,10000,1,0,,0.0,21,364,0,True,False,0.9972602739726028,9.210440366976517
+44256902.0,Deluxe Room - Central Sukhumvit - Free Wifi - Gym Nana BTS,215328104,Nutcha,Vadhana,13.73671,100.56936,Private room,10000,1,0,,0.0,21,364,0,True,False,0.9972602739726028,9.210440366976517
+44256934.0,Deluxe Room - With Breakfast - Free Wifi - Gym Nana BTS,215328104,Nutcha,Vadhana,13.73654,100.56808,Private room,10000,1,0,,0.0,21,364,0,True,False,0.9972602739726028,9.210440366976517
+44256967.0,Deluxe Terrace - With Breakfast - Boulevard Hotel Bangkok,215328104,Nutcha,Vadhana,13.73608,100.56942,Private room,10000,1,0,,0.0,21,364,0,True,False,0.9972602739726028,9.210440366976517
+44256980.0,BTS Nana Deluxe Corner Room - Shopping - Nightlife - Central,215328104,Nutcha,Vadhana,13.73655,100.5695,Private room,10000,1,0,,0.0,21,364,0,True,False,0.9972602739726028,9.210440366976517
+44257001.0,BTS Nana Deluxe Corner Room - With Breakfast - Boulevard Hotel Bangkok,215328104,Nutcha,Vadhana,13.7363,100.56797,Private room,10000,1,0,,0.0,21,365,0,True,False,1.0,9.210440366976517
+44257020.0,Junior Suite - With Breakfast - 5 Min To Nana BTS,215328104,Nutcha,Vadhana,13.73473,100.56791,Private room,10000,1,0,,0.0,21,365,0,True,False,1.0,9.210440366976517
+44690320.0,Superior Nearby Pratunam Just 5 Miniutes Walk,361895166,Nuttapong,Ratchathewi,13.75404,100.5376,Private room,100000,1,0,,0.0,1,365,0,True,False,1.0,11.51293546492023
+44718574.0,Rent IDEO Mix Sukhumvit ​103 next to BTS Udomsuk,195379641,Alex,Bang Na,13.68172,100.60924,Entire home/apt,10500,30,0,,0.0,1,180,0,True,False,0.4931506849315068,9.259225769705994
+45994890.0,One Bedroom Executive @ Oakwood Suites Bangkok,342783799,Apicha,Khlong Toei,13.72906,100.56955,Private room,10029,1,2,2022-09-02,0.09,9,361,1,True,False,0.989041095890411,9.21333588095598
+45995184.0,Two Bedroom Executive @ Oakwood Suites Bangkok,342783799,Apicha,Khlong Toei,13.72777,100.56915,Private room,16729,1,0,,0.0,9,58,0,True,False,0.1589041095890411,9.72495879398087
+46129903.0,ThongLor Luxury Apartment on Sukhumvit 55,32466688,Laaong,Vadhana,13.73207,100.58322,Entire home/apt,9500,2,1,2022-08-15,0.22,6,1,1,True,False,0.0027397260273972603,9.15915233520675
+45193831.0,Lily's Home 粒粒的民宿 Suthisan地铁口 带花园停车位,347302995,Sophia,Din Daeng,13.78849,100.56854,Entire home/apt,7643,1,12,2022-12-11,0.87,39,359,11,True,False,0.9835616438356164,8.941676305360163
+46843127.0,Luxury high-ceiling loft style condo,83848518,Supavich,Huai Khwang,13.75345,100.56523,Entire home/apt,65000,90,0,,0.0,1,365,0,True,True,1.0,11.082157933374816
+46472115.0,Reflection of the life of locals,149900593,Theatre Residence,Bangkok Noi,13.75459,100.48529,Private room,7504,1,0,,0.0,4,362,0,True,False,0.9917808219178083,8.923324744067562
+46472432.0,The simply riverside way of life...,149900593,Theatre Residence,Bangkok Noi,13.7532,100.4872,Private room,7504,1,0,,0.0,4,362,0,True,False,0.9917808219178083,8.923324744067562
+46650501.0,Ariva Hyde11 Sukhumvit,338752975,Thanidar,Vadhana,13.74593,100.55567,Private room,10000,30,1,2021-09-18,0.06,2,365,0,True,False,1.0,9.210440366976517
+47244782.0,❤️Silom❤️BTS450m*Siam15min❤️StreetFood❤️7-11,243654968,Viia,Bang Rak,13.72581,100.53048,Entire home/apt,9134,1,22,2022-12-13,1.64,6,217,21,True,False,0.5945205479452055,9.119868468812108
+47325477.0,Kallaya Garden House - (Entire),276418453,G Living,Bang Na,13.66672,100.62017,Entire home/apt,8214,1,5,2022-07-23,0.23,32,173,3,True,False,0.473972602739726,9.01371703047137
+47483838.0,2 Storey Penthouse with Roof-Top Pool in Thonglor,222000961,Ning,Vadhana,13.73665,100.58291,Entire home/apt,18000,2,15,2022-11-27,0.64,6,277,10,True,False,0.7589041095890411,9.798182590890704
+48926544.0,Easy suite with shower toilet,72420017,Surapong,Bang Khen,13.85036,100.64538,Private room,20000,1,1,2021-03-31,0.05,3,364,0,True,False,0.9972602739726028,9.90353755128617
+48175935.0,2 Bedrooms Family Suite with Breakfast,64263937,Tower Club At Lebua,Bang Rak,13.721205,100.517212,Private room,12536,1,0,,0.0,11,273,0,True,False,0.7479452054794521,9.436439551116026
+48176191.0,3 Bedrooms River View with Breakfast,64263937,Tower Club At Lebua,Bang Rak,13.721612,100.517059,Private room,16987,1,0,,0.0,11,269,0,True,False,0.736986301369863,9.740262491433162
+47713209.0,Walkable to Paragon - humble abode vacation home,13425822,Sunisa,Pathum Wan,13.7489,100.52897,Entire home/apt,23450,1,33,2022-12-19,1.55,1,139,30,True,False,0.38082191780821917,10.06266841688844
+47821837.0,Penthouse Suites @ Terminal 21,37749512,LuxurySuitesAsia,Khlong Toei,13.73518,100.55895,Entire home/apt,9193,1,0,,0.0,14,285,0,True,False,0.7808219178082192,9.126306376366173
+48495108.0,Villa Jahn (Riverfront Bangkok),391069620,Villa Jahn,Bangkok Noi,13.754807,100.486458,Entire home/apt,8429,7,1,2022-10-26,0.47,1,286,1,True,False,0.7835616438356164,9.039552050995901
+48723288.0,Spacious apartment 1 BR 40 sqm Suk 71 - Pridi 45,181453003,Cedric,Vadhana,13.73594,100.5971,Entire home/apt,11128,1,2,2022-02-04,0.12,9,365,1,True,False,1.0,9.317309592973425
+49582912.0,8 Bedroom 22 Persons Townhouse in Center,123144618,Jingli,Ratchathewi,13.751754,100.546158,Entire home/apt,10414,1,15,2022-11-27,0.89,5,350,14,True,False,0.958904109589041,9.251002353695073
+49720812.0,6 Bedroom Luxury Villa in the heart of Bangkok,401002012,Julie,Yan Nawa,13.7143,100.55312,Entire home/apt,50000,1,0,,0.0,1,177,0,True,False,0.4849315068493151,10.819798284210286
+49957878.0,The best view in Bangkok with largest park & shop,62211407,May,Chatuchak,13.80487,100.556,Entire home/apt,120000,25,0,,0.0,2,358,0,True,False,0.9808219178082191,11.695255355062795
+50532164.0,Monthly! 7F100m2~!2BR Sukhumvit#Terminal 21#3Beds,4385665,Yefeng,Khlong Toei,13.7369,100.55898,Entire home/apt,7830,1,44,2022-12-15,2.43,24,63,37,True,False,0.1726027397260274,8.965845494750937
+50743099.0,คอนโดสุขุมวิท 26 0854458550ราคาเช่า20000 บาทต่อเดือน,54742946,Bas,Khlong Toei,13.72462,100.57002,Private room,20000,1,0,,0.0,1,365,0,True,False,1.0,9.90353755128617
+50755727.0,คอนโดใหม่ วิวสวยใกล้ bts ห้าแยกลาดพร้าว และ Mrt,124996229,Trirat,Chatuchak,13.81159,100.55907,Entire home/apt,20000,365,0,,0.0,2,362,0,True,True,0.9917808219178083,9.90353755128617
+50802053.0,Private Plunge Pool Villa 4 BR for Dinner Party!,240603715,Sasikarn,Suan Luang,13.71241,100.63539,Private room,17286,1,1,2022-04-17,0.12,31,159,1,True,False,0.43561643835616437,9.757710052922787
+51851676.0,Weekly・Monthly! 110m2~3BR!Sukhumv#Near Terminal 21,4385665,Yefeng,Khlong Toei,13.73566,100.55855,Entire home/apt,8691,1,26,2022-12-12,1.64,24,49,23,True,False,0.13424657534246576,9.07015834137632
+50802708.0,Private Plunge Pool Villa 2BR for Family Onnut BTS,240603715,Sasikarn,Suan Luang,13.70876,100.61283,Private room,17143,1,0,,0.0,31,343,0,True,False,0.9397260273972603,9.749403537153412
+51854076.0,Weekly・7F100m2~!2BR Asok&Sukhumvit#3Beds,4385665,Yefeng,Khlong Toei,13.73515,100.55687,Entire home/apt,7545,1,30,2022-12-23,1.9,24,74,27,True,False,0.20273972602739726,8.928772900524256
+52713045.0,Muji House,351309638,Smirah,Lat Phrao,13.80872,100.60234,Entire home/apt,9957,1,6,2022-12-11,1.09,5,359,6,True,False,0.9835616438356164,9.206131527202128
+51914290.0,Designer Loft with Stunning RiverView Free Pick-Up,298779338,Joyce,Bang Rak,13.72068,100.51736,Entire home/apt,16843,2,40,2022-12-26,2.6,8,238,35,True,False,0.6520547945205479,9.73174978928182
+51049280.0,Siamese Exclusive Queens-2BR 77 SQM/5 min walk MRT,412845925,Siamese Exclusive,Khlong Toei,13.723146,100.55954,Entire home/apt,9286,1,87,2022-11-30,5.1,7,362,80,True,False,0.9917808219178083,9.13637085177601
+52940323.0,🎗Chewathai Ramkhamhaeng By KhunGrape,99882630,Jiranuch,Bang Kapi,13.76082,100.63366,Private room,429443,1,0,,0.0,1,313,0,True,False,0.8575342465753425,12.970246627738057
+52225888.0,"Bangkok horizon Ramkhanheang Beautifull room❤ 40 sqm. 17th floors. 1,1000 /mounth. full Furniture Full Electical machine Contact for 1 year Line ID: easy.cd",421505375,เกวลิน,Bang Kapi,13.76335,100.64786,Private room,11000,1,0,,0.0,2,365,0,True,False,1.0,9.305741456739435
+51134954.0,Spacious new studio 2 BR 75 sqm Suk 71 - Pridi 45,181453003,Cedric,Vadhana,13.73709,100.59671,Private room,18000,1,2,2021-12-18,0.12,9,358,0,True,False,0.9808219178082191,9.798182590890704
+52226972.0,Atmoz รัชดา-ห้วยขวาง ลดราคาหนักๆ,394945171,Lulu,Wang Thonglang,13.77171,100.59696,Private room,11000,1,0,,0.0,2,365,0,True,False,1.0,9.305741456739435
+52503428.0,คอนโดน่าอยู่ พร้อมสระว่ายน้ํา และลานกว้าง,295157799,วิทยาธร,Bang Sue,13.81144,100.52202,Private room,100000,2,0,,0.0,1,365,0,True,False,1.0,11.51293546492023
+53096792.0,Grand Suite Soi Sukhumvit19 with Pool - D,45414241,Banthueng,Vadhana,13.74061,100.56024,Entire home/apt,8871,1,8,2022-12-09,0.81,7,362,8,True,False,0.9917808219178083,9.090655529030203
+53137912.0,Luxury Condo 2 Bedrooms in Bangkok area,84355602,Virat,Huai Khwang,13.74508,100.58868,Private room,8500,1,0,,0.0,2,365,0,True,False,1.0,9.04793908261736
+53649515.0,Luxury Celebrity Home Centre of Shopping Malls,131434356,Salinrat,Lat Phrao,13.80991,100.61591,Entire home/apt,14150,365,1,2022-03-31,0.11,4,365,1,True,True,1.0,9.557540571952371
+52540704.0,Luxury tropical pool villa /best location BKK 5bed,281340146,Toshiaki,Vadhana,13.73662,100.58846,Entire home/apt,47989,1,0,,0.0,1,291,0,True,False,0.7972602739726027,10.77874793485229
+53927615.0,1 Bedroom 1 Bathroom Apartment near MRT HuayKwang,307197002,Wassaya,Huai Khwang,13.76017,100.57385,Private room,12000,1,0,,0.0,2,365,0,True,False,1.0,9.392745258631441
+53710591.0,Artist House & Gallery- 4 Guest Suites,8123510,Tatiya,Chatuchak,13.81682,100.58286,Entire home/apt,12054,2,1,2022-12-03,1.0,13,345,1,True,False,0.9452054794520548,9.397234790615272
+53835137.0,FINE BANGKOK. Luxuary Penthous,276418453,G Living,Vadhana,13.72947,100.58618,Entire home/apt,11000,30,0,,0.0,32,362,0,True,False,0.9917808219178083,9.305741456739435
+53906141.0,7D-3Bedrooms/2Baths near MRT/BTS Downtown Bangkok,30262097,Dr. Supot,Vadhana,13.746123,100.558868,Entire home/apt,7759,2,12,2022-11-28,0.98,15,175,11,True,False,0.4794520547945205,8.956737613177264
+5.62972e+17,3B中文No Guest Service Fee@Nana Asok/Soi11 Nightlife,131427125,Jj,Vadhana,13.74666,100.5591,Entire home/apt,1014758,30,2,2022-09-17,0.32,10,75,2,True,False,0.2054794520547945,13.830161703841414
+5.48831e+17,Luxury Service Apartment - Three Bedroom,442284362,Vivi,Vadhana,13.72859,100.57984,Entire home/apt,10429,1,0,,0.0,3,223,0,True,False,0.6109589041095891,9.252441547994819
+54358998.0,3 BD - Luxury Thai Villa in Sukumvit 24,8336931,Tontrakun,Khlong Toei,13.72081661,100.5660477,Entire home/apt,14971,365,12,2022-11-27,1.41,3,350,12,True,True,0.958904109589041,9.61393706902432
+54359203.0,2 BD - Luxury Thai Villa in Sukumvit 24,8336931,Tontrakun,Khlong Toei,13.72081661,100.5660477,Entire home/apt,12614,365,21,2022-12-21,3.03,3,363,21,True,True,0.9945205479452055,9.442641861075158
+5.58239e+17,"1 Bedroom Beverly 33, pool, gym sukhumvit 33",181453003,Cedric,Vadhana,13.73427,100.56855,Private room,8999,30,0,,0.0,9,361,0,True,False,0.989041095890411,9.104979856318357
+5.58461e+17,issi condo suksawad,444293366,Supawit,Rat Burana,13.68248,100.49446,Private room,8000,1,0,,0.0,1,365,0,True,False,1.0,8.987321812850125
+5.79352e+17,Luxury 3B with private bar / cook and maid,57683727,Christophe,Vadhana,13.72807,100.59002,Entire home/apt,25743,21,0,,0.0,2,365,0,True,False,1.0,10.155956869232165
+6.01065e+17,BEB Silom 4 Private Furnished BR with Free-parking,452485272,Yu,Bang Rak,13.726895,100.527184,Entire home/apt,9000,10,0,,0.0,2,89,0,True,False,0.24383561643835616,9.105090961257085
+5.9313e+17,Stunning Modern 2 Bedroom City View near Asiatique,337002776,Zuzu,Bang Kho Laem,13.70529,100.50597,Private room,10049,1,0,,0.0,30,357,0,True,False,0.9780821917808219,9.215327913487222
+5.93134e+17,Lovely 2 Bedroom with River View near Asiatique,337002776,Zuzu,Bang Kho Laem,13.70362,100.50584,Private room,11280,1,0,,0.0,30,350,0,True,False,0.958904109589041,9.33087517360492
+5.81795e+17,"SHAN : Family Private Pool 2 BR, Onnut BTS, WIFI",240603715,Sasikarn,Suan Luang,13.71082,100.63356,Private room,8243,1,0,,0.0,31,340,0,True,False,0.9315068493150684,9.01724094201035
+5.82475e+17,"SHAN : Family 4 BR Private Pool ,BTS Onnut, WIFI",240603715,Sasikarn,Suan Luang,13.71036,100.63535,Private room,13588,1,1,2022-05-16,0.13,31,319,1,True,False,0.873972602739726,9.517015920920498
+5.85171e+17,Brand new 1 Bedroom Sukhumvit 22,181453003,Cedric,Khlong Toei,13.7266,100.56354,Private room,8970,1,0,,0.0,9,365,0,True,False,1.0,9.101752431559284
+5.97431e+17,Four seasons private residences with river view,394945171,Lulu,Sathon,13.7134,100.51104,Entire home/apt,200000,1,0,,0.0,2,361,0,True,False,0.989041095890411,12.206077645517674
+6.08356e+17,"Shan : Private Plunge Pool Villa 4 BR , Free WIFI",240603715,Sasikarn,Suan Luang,13.70851,100.61327,Private room,17286,1,0,,0.0,31,348,0,True,False,0.9534246575342465,9.757710052922787
+6.29653e+17,rm 6 : bright morning sunlight.,117057915,Jeab,Bang Phlat,13.79049,100.48816,Private room,400717,1,0,,0.0,5,241,0,True,False,0.6602739726027397,12.901013217002872
+6.09746e+17,"2-bedroom suite full kitchen, living area, wifi",452189146,Waranad From Somerset Rama Nine BKK,Huai Khwang,13.75935,100.56744,Private room,11770,1,1,2022-05-01,0.12,5,132,1,True,False,0.36164383561643837,9.37339415841248
+6.11196e+17,"Space for activities; cooking, baking, eating etc",424091386,Nattamon,Vadhana,13.72304,100.58545,Private room,9000,1,0,,0.0,1,365,0,True,False,1.0,9.105090961257085
+6.11204e+17,"6BR, 15pax, 1min walk to Ploenchit BTS, bumrungrad",42594121,Gift,Vadhana,13.74518,100.55046,Entire home/apt,7900,1,2,2022-11-06,0.4,21,359,2,True,False,0.9835616438356164,8.974744612722734
+6.11857e+17,"Shan : Pool Access 4 Deluxe Room, BTS Onnut , WiFi",240603715,Sasikarn,Suan Luang,13.70707,100.61155,Private room,12000,1,0,,0.0,31,338,0,True,False,0.9260273972602739,9.392745258631441
+6.35676e+17,New 1 bedroom apartment BTS MRT Asoke,12464705,Lucio,Vadhana,13.742186,100.560394,Entire home/apt,1100000,14,0,,0.0,1,365,0,True,False,1.0,13.910821646859095
+6.35819e+17,Three Bedroom Residence,340150263,Bandara,Bang Rak,13.725778,100.538231,Private room,9714,1,1,2022-07-31,0.2,18,257,1,True,False,0.7041095890410959,9.18142636181154
+6.36211e+17,Breathe taking views on Ultra high floor apt,16225579,Bruce,Bang Rak,13.72398,100.52909,Entire home/apt,12000,4,0,,0.0,1,173,0,True,False,0.473972602739726,9.392745258631441
+6.32833e+17,"Amazing! 5 Private BR , MRT Huai-Khwang ,Free WiFi",240603715,Sasikarn,Huai Khwang,13.77016,100.58012,Private room,9900,1,0,,0.0,31,255,0,True,False,0.6986301369863014,9.200391041122515
+6.19948e+17,Large 4 Bedroom private pool villa ThonglorEkkamai,2076086,Caspar,Vadhana,13.727844,100.591187,Entire home/apt,7977,1,45,2022-12-19,6.0,1,352,45,True,False,0.9643835616438357,8.984443032465352
+6.21376e+17,Private One Bedroom close to BTS Chitlom,457855942,Chanika,Pathum Wan,13.74166,100.54321,Private room,15714,1,0,,0.0,3,362,0,True,False,0.9917808219178083,9.662370949231669
+6.43164e+17,"2 Bedroom, 85 Sqm. Next to Bumrungrad Hospital.",462161896,Sonthi,Vadhana,13.74752,100.55085,Private room,12570,1,0,,0.0,2,361,0,True,False,0.989041095890411,9.43914785291483
+6.4073e+17,Condo. GROUP of 12 guests@Chinatown airport2ways#1,26736483,K,Pom Prap Sattru Phai,13.74091,100.51213,Entire home/apt,7555,1,0,,0.0,89,354,0,True,False,0.9698630136986301,8.9300972286214
+6.5058e+17,Muji house,315314095,Andaman,Lat Phrao,13.80772,100.60261,Entire home/apt,9143,1,0,,0.0,1,358,0,True,False,0.9808219178082191,9.120853205474647
+6.50616e+17,Pool Villa 107A,351309638,Smirah,Bang Na,13.66221,100.60234,Entire home/apt,23900,1,4,2022-12-18,0.77,5,360,4,True,False,0.9863013698630136,10.081675578048475
+6.50616e+17,Pool Villa 103,351309638,Smirah,Bang Na,13.67867524,100.6092556,Entire home/apt,18714,1,6,2022-12-07,0.96,5,340,6,True,False,0.9315068493150684,9.83708062033853
+6.2418e+17,Charming 6-Bedroom for 17 persons/BKK view rooftop,20500449,Mallika,Phaya Thai,13.77434,100.53368,Private room,8500,1,1,2022-09-20,0.3,12,364,1,True,False,0.9972602739726028,9.04793908261736
+6.48023e+17,Muji style townhouse 3-bedroom with parking,99993807,Iizeezii,Lat Phrao,13.8077707,100.6026033,Entire home/apt,9514,1,3,2022-08-16,0.47,1,359,3,True,False,0.9835616438356164,9.16062477973025
+6.59872e+17,Penthouse Residence in Silom,340150263,Bandara,Bang Rak,13.7258472,100.5382642,Private room,15000,1,0,,0.0,18,57,0,True,False,0.15616438356164383,9.61587214452889
+6.66102e+17,Lovely 1-bedroom with pool,192980151,Chomphunot,Vadhana,13.70942,100.60075,Private room,15000,365,0,,0.0,1,365,0,True,True,1.0,9.61587214452889
+6.61357e+17,Admiral Suite RO- 1BR Suite with Balcony,98598351,Admiral Premier,Vadhana,13.74164,100.56155,Private room,250344,1,0,,0.0,17,360,0,True,False,0.9863013698630136,12.430595245519502
+6.61357e+17,Admiral Suite RO- NRF 1BR Suite with Balcony,98598351,Admiral Premier,Vadhana,13.72654,100.57647,Private room,7543,1,0,,0.0,17,360,0,True,False,0.9863013698630136,8.928507824313293
+6.61483e+17,★Tree Villa Bangkok★3 Bedrooms★Private Pool★,62257044,Ludoping,Yan Nawa,13.71233,100.5535,Private room,22000,1,5,2022-10-23,0.94,56,85,5,True,False,0.2328767123287671,9.99884318585288
+6.61499e+17,★Cloud 6 Star ★ Four Seasons Private Residences ★,62257044,Ludoping,Sathon,13.71108,100.51155,Entire home/apt,11000,30,1,2022-11-10,0.61,56,181,1,True,False,0.4958904109589041,9.305741456739435
+6.62597e+17,"Ngamwomgwan 47 ,Bangkok",122584697,Chanida,Lak Si,13.85751899,100.559347,Entire home/apt,10000,1,0,,0.0,1,365,0,True,False,1.0,9.210440366976517
+6.77094e+17,เอียนทิงค์ซินโรงแรม,471026799,Ariel,Dusit,13.7773,100.51183,Entire home/apt,8410,1,0,,0.0,1,365,0,True,False,1.0,9.037295651962438
+6.78712e+17,Foyum home,431410543,Rewat,Din Daeng,13.76912,100.56938,Private room,15000,1,2,2022-12-19,1.28,1,357,2,True,False,0.9780821917808219,9.61587214452889
+6.71393e+17,2-Bedroom Residence with Balcony in Silom 130 sqm.,340150263,Bandara,Bang Rak,13.7258719,100.5382999,Private room,9357,1,1,2022-10-09,0.37,18,358,1,True,False,0.9808219178082191,9.143986871426161
+6.72019e+17,Whole Property @ Priya Boutique Hotel,463981357,Chaiwat,Phra Nakhon,13.76053,100.50181,Private room,12000,1,0,,0.0,3,359,0,True,False,0.9835616438356164,9.392745258631441
+6.65635e+17,Colorful home studio for rent,43561134,Summer,Chatuchak,13.81422,100.55179,Entire home/apt,9500,1,0,,0.0,4,365,0,True,False,1.0,9.15915233520675
+6.65689e+17,2-Bedroom Residence with balcony and bathtub,340150263,Bandara,Bang Rak,13.72573922,100.538236,Private room,8929,1,4,2022-10-30,0.84,18,332,4,True,False,0.9095890410958904,9.097171673870545
+6.87463e+17,Fully Serviced 4-bed Lux Penthouse - Phrom Phong,6643588,Beau,Khlong Toei,13.73038402,100.5683734,Entire home/apt,24202,5,0,,0.0,1,50,0,True,False,0.136986301369863,10.094231871403661
+7.00373e+17,CityCenter_Emquartier_BTS Phrom Phong • NewHouse,243654968,Viia,Vadhana,13.73182,100.57616,Entire home/apt,11309,1,16,2022-12-05,3.9,6,217,16,True,False,0.5945205479452055,9.333442569110167
+6.93297e+17,3min to BTS 200m Phrakanong/Luxury Home Bkk,62374140,Aime,Vadhana,13.71671,100.59296,Entire home/apt,11414,3,3,2022-12-12,1.76,1,355,3,True,False,0.9726027397260274,9.342683558963897
+7.09796e+17,"4 Br Villa with Private Plunge Pool, On Nut bts",477497744,Vichak,Suan Luang,13.70942,100.61117,Private room,31910,1,0,,0.0,6,347,0,True,False,0.9506849315068493,10.370706056919774
+7.09823e+17,"Newly 3 Bedroom Suite, bts On Nut",477497744,Vichak,Suan Luang,13.70756,100.61157,Private room,19333,1,0,,0.0,6,355,0,True,False,0.9726027397260274,9.869620483024551
+7.09854e+17,2 Bedrooms with connecting door,477497744,Vichak,Suan Luang,13.70949,100.61244,Private room,8060,1,0,,0.0,6,361,0,True,False,0.989041095890411,8.9947928972836
+7.0989e+17,"Family 4 BR Private Pool & Terrace, BTS Onnut",477497744,Vichak,Suan Luang,13.70789,100.61098,Private room,26338,1,2,2022-12-04,1.36,6,310,2,True,False,0.8493150684931506,10.178806009504447
+7.10264e+17,Family&Friends 2-Bedroom Suite,406403381,Darisa,Vadhana,13.73323,100.58546,Private room,7857,1,1,2022-10-13,0.39,11,365,1,True,False,1.0,8.969287400118406
+7.06267e+17,2BR near BTS Chitlom to explore lively Bangkok,457855942,Chanika,Pathum Wan,13.74037,100.54409,Private room,17214,1,0,,0.0,3,233,0,True,False,0.6383561643835617,9.753536375772624
+7.12279e+17,Villa 15,351309638,Smirah,Chatuchak,13.81456431,100.5722115,Entire home/apt,18643,1,4,2022-12-05,1.28,5,356,4,True,False,0.9753424657534246,9.833279657492632
+7.11294e+17,Spacious 1 BR appt 40 sqm central Sukhumvit,181453003,Cedric,Khlong Toei,13.73534,100.55738,Entire home/apt,9199,1,2,2022-11-07,0.82,9,365,2,True,False,1.0,9.126958763037132
+7.18507e+17,Chao Phraya River view Hotel in BKK,375241276,Air Global,Bang Rak,13.72052,100.5178,Private room,7999,1,0,,0.0,22,89,0,True,False,0.24383561643835616,8.987196820661973
+7.18542e+17,Luxury two bedrooms hotel BKK -nice view,375241276,Air Global,Bang Rak,13.72238,100.51672,Private room,17099,1,0,,0.0,22,88,0,True,False,0.2410958904109589,9.746833742490752
+7.1856e+17,"BKK, Silom all-suite 3 bedrooms hotel",375241276,Air Global,Bang Rak,13.72066,100.51579,Private room,19499,1,0,,0.0,22,83,0,True,False,0.2273972602739726,9.878169744551839
+7.18576e+17,Cozy Room 5 mins to Queen SiriKit Station,182897474,Mi Amore,Vadhana,13.73555,100.56308,Entire home/apt,8857,1,0,,0.0,6,364,0,True,False,0.9972602739726028,9.089076284483143
+7.18605e+17,2-Bedroom Suite near Terminal 21 Asok,182897474,Mi Amore,Khlong Toei,13.73369,100.56287,Private room,20000,1,1,2022-10-07,0.36,6,364,1,True,False,0.9972602739726028,9.90353755128617
+7.19355e+17,Luxury affordable Family Suite max6ppl,406403381,Darisa,Vadhana,13.73435,100.58379,Private room,8214,1,0,,0.0,11,365,0,True,False,1.0,9.01371703047137
+7.19429e+17,"Family Suite w/ King, Tripple Bunkbed & Single bed",406403381,Darisa,Vadhana,13.73492,100.58502,Private room,8214,1,0,,0.0,11,361,0,True,False,0.989041095890411,9.01371703047137
+7.20952e+17,Cozy 3 bedrooms entire house with pool Sukhumvit,480459199,Sol,Khlong Toei,13.72739486,100.5609709,Entire home/apt,7976,1,2,2022-11-14,0.74,1,172,2,True,False,0.4712328767123288,8.984317679911129
+7.2204e+17,Sukhumvit 71 - Modern 2 Bedrooms Suite,434168399,Krittika,Vadhana,13.73804,100.59704,Entire home/apt,12714,1,2,2022-12-12,0.91,44,365,2,True,False,1.0,9.45053767785622
+7.17011e+17,Modern 2 Bedrooms apartment in Thonglor!,434168399,Krittika,Vadhana,13.73807,100.57976,Entire home/apt,13607,1,0,,0.0,44,365,0,True,False,1.0,9.518413134075697
+7.24241e+17,Spacious 3-Bedrooms apartment in Sathorn with pool,434168399,Krittika,Yan Nawa,13.71037,100.54215,Entire home/apt,10143,1,1,2022-10-08,0.37,44,357,1,True,False,0.9780821917808219,9.224637676677007
+7.30719e+17,"全新著名設計師完工。獨棟透天民宅,交通便利",13937695,Sandy,Din Daeng,13.77016,100.56855,Entire home/apt,24571,1,0,,0.0,4,361,0,True,False,0.989041095890411,10.109362862283819
+7.30994e+17,2-Rooms near Terminal 21 Asoke,182897474,Mi Amore,Khlong Toei,13.72257,100.56219,Private room,9361,1,0,,0.0,6,365,0,True,False,1.0,9.144414221860016
+7.3107e+17,Cozy Room 7 mins to Queen SiriKit Station,182897474,Mi Amore,Khlong Toei,13.72265,100.56125,Private room,9000,1,0,,0.0,6,365,0,True,False,1.0,9.105090961257085
+7.25793e+17,City center 3x2 bedroom units with patio,95548084,Mod Apiluk,Pathum Wan,13.74264,100.55042,Entire home/apt,8029,1,0,,0.0,25,355,0,True,False,0.9726027397260274,8.990939806940807
+7.40365e+17,"Nice 2 bedrooms, 90 sqm - central area",434168399,Krittika,Khlong Toei,13.73624,100.55172,Private room,11000,1,1,2022-12-05,1.0,44,365,1,True,False,1.0,9.305741456739435
+7.40378e+17,"Nice 2 bedrooms, 90sqm - central area",434168399,Krittika,Pathum Wan,13.73584,100.54972,Private room,12250,1,0,,0.0,44,365,0,True,False,1.0,9.41336284529417
+7.40492e+17,"Comfy lake view bed room, 34sqm - central area",434168399,Krittika,Khlong Toei,13.73349,100.55736,Entire home/apt,8143,1,1,2022-11-04,0.55,44,365,1,True,False,1.0,9.005036738790304
+7.40581e+17,Modern&Luxury 2BR Condo/Infinity pool@BTS/Silom,221642164,Mary,Bang Rak,13.72211,100.52492,Entire home/apt,8717,6,2,2022-12-09,1.54,21,175,2,True,False,0.4794520547945205,9.073145132798338
+7.37322e+17,4 Bedroom Penthouse Loft In Amazing Location!,57100337,Peter,Vadhana,13.72496,100.57879,Entire home/apt,12686,1,10,2022-12-22,5.77,1,335,10,True,False,0.9178082191780822,9.448333126140598
+7.40917e+17,"Lovely one bedroom, 55sqm - central area",434168399,Krittika,Khlong Toei,13.73564,100.55829,Entire home/apt,8743,1,0,,0.0,44,365,0,True,False,1.0,9.076123029856374
+7.40925e+17,"Lovely one bedroom, 55sqm - central area",434168399,Krittika,Khlong Toei,13.73539,100.55848,Entire home/apt,8743,1,1,2022-12-24,1.0,44,365,1,True,False,1.0,9.076123029856374
+7.40928e+17,"Lovely one bedroom lake view, 95sqm - central area",434168399,Krittika,Khlong Toei,13.73526,100.55664,Entire home/apt,10200,1,0,,0.0,44,365,0,True,False,1.0,9.23024103368252
+7.40933e+17,"Lovely one bedroom lake view, 95sqm - central area",434168399,Krittika,Khlong Toei,13.73534,100.55834,Private room,10200,1,0,,0.0,44,365,0,True,False,1.0,9.23024103368252
+7.40936e+17,"Nice family room, 83sqm - central area",434168399,Krittika,Khlong Toei,13.73347,100.55751,Entire home/apt,14571,1,0,,0.0,44,365,0,True,False,1.0,9.586857158128455
+7.40944e+17,"Nice family room, 83sqm - central area",434168399,Krittika,Khlong Toei,13.73506,100.55885,Entire home/apt,14571,1,0,,0.0,44,365,0,True,False,1.0,9.586857158128455
+7.40947e+17,"Comfy big executive suite, 111sqm - central area",434168399,Krittika,Khlong Toei,13.73572,100.557,Entire home/apt,12686,1,0,,0.0,44,365,0,True,False,1.0,9.448333126140598
+7.40952e+17,"Comfy big executive suite, 111sqm - central area",434168399,Krittika,Khlong Toei,13.73505,100.55693,Entire home/apt,12686,1,0,,0.0,44,365,0,True,False,1.0,9.448333126140598
+7.41804e+17,"Perfect 2bedrooms residence, 90sqm - central area",434168399,Krittika,Vadhana,13.73832,100.58172,Private room,15893,1,0,,0.0,44,365,0,True,False,1.0,9.673696958500125
+7.41812e+17,"Perfect 2bedrooms residence, 90sqm - central area",434168399,Krittika,Vadhana,13.73793,100.57948,Private room,15893,1,0,,0.0,44,365,0,True,False,1.0,9.673696958500125
+7.44649e+17,4 bedrooms Luxury Colonial Style Apartment,65010035,Watanya & Thomas,Pathum Wan,13.74118992,100.5493572,Entire home/apt,18000,7,0,,0.0,1,98,0,True,False,0.2684931506849315,9.798182590890704
+7.45262e+17,"Comfort, 1BD private bathroom bathtub, BTS Thonglo",484985245,La Petite Thonglor One,Vadhana,13.72571,100.57931,Private room,7754,1,2,2022-12-05,1.62,3,305,2,True,False,0.8356164383561644,8.956093075610639
+7.45274e+17,"Modern 1 BD Private bathtub, Balcony, BTS Thonglor",484985245,La Petite Thonglor One,Vadhana,13.7262,100.57742,Private room,8968,1,0,,0.0,3,306,0,True,False,0.8383561643835616,9.101529466118004
+7.45279e+17,"Exclusive 1 BD private bathtub, BTS Thonglor",484985245,La Petite Thonglor One,Vadhana,13.73337,100.57814,Private room,11800,1,0,,0.0,3,303,0,True,False,0.8301369863013699,9.375939552625749
+7.49067e+17,Sukhumvit 71 - Modern 2 Bedrooms Suite,434168399,Krittika,Vadhana,13.73708,100.59701,Entire home/apt,12714,1,0,,0.0,44,365,0,True,False,1.0,9.45053767785622
+7.5329e+17,Luxury Living in Heart of Bangkok,46163812,Ernest,Khlong Toei,13.72507,100.57452,Entire home/apt,10849,1,5,2022-12-05,2.83,8,249,5,True,False,0.6821917808219178,9.291920358968605
+7.49673e+17,"Two Bedroom Apartment in Sathorn, Bangkok",483233941,Amanta Hotel And Residence,Sathon,13.72195,100.54759,Private room,8214,1,0,,0.0,3,352,0,True,False,0.9643835616438357,9.01371703047137
+7.40057e+17,Modern&Luxury 2BR Condo/Infinity pool@BTS/Silom,221642164,Mary,Sathon,13.71999,100.52482,Entire home/apt,8717,6,1,2022-12-05,1.0,21,169,1,True,False,0.46301369863013697,9.073145132798338
+7.40062e+17,Modern&Luxury 2BR Condo/Infinity pool@BTS/Silom,221642164,Mary,Bang Rak,13.72217,100.52504,Entire home/apt,8717,6,0,,0.0,21,166,0,True,False,0.4547945205479452,9.073145132798338
+7.54806e+17,Luxury Living in Heart of Bangkok,46163812,Ernest,Vadhana,13.74272,100.55997,Entire home/apt,10856,28,2,2022-12-28,1.18,8,271,2,True,False,0.7424657534246575,9.292565312231853
+7.55666e+17,888 GROUP of 16 guests @Chinatown airport 2ways#1,26736483,K,Pom Prap Sattru Phai,13.7427,100.51211,Entire home/apt,11169,1,0,,0.0,89,357,0,True,False,0.9780821917808219,9.320986892063246
+7.51811e+17,โฮมออฟฟิศ เหมาะสําหรับพักผ่อนหนีหนาวของชาวยุโรป,486147243,รักษา,Bang Khun Thian,13.65003,100.45654,Entire home/apt,10000,1,0,,0.0,1,365,0,True,False,1.0,9.210440366976517
+7.56476e+17,Asoke modern near MRT & airport link,185602387,Pluem,Din Daeng,13.759202,100.5593512,Private room,8000,40,0,,0.0,16,365,0,True,True,1.0,8.987321812850125
+7.56854e+17,Condo M Chatuchak 33 sqm. 29th floors Contact 1 y.,421505375,เกวลิน,Chatuchak,13.79877,100.55214,Private room,18000,1,0,,0.0,2,365,0,True,False,1.0,9.798182590890704
+7.6271e+17,Corner Suite*Fully equipped Kitchenette*Breakfast,26620868,Gilles,Vadhana,13.73122,100.58281,Entire home/apt,8092,1,0,,0.0,34,99,0,True,False,0.27123287671232876,8.998754769495703
+7.62747e+17,Family*2 ensuite bedrooms*Living room*Kitchenette,26620868,Gilles,Vadhana,13.73132,100.5831,Entire home/apt,13107,1,0,,0.0,34,79,0,True,False,0.21643835616438356,9.480978009818704
+7.62813e+17,BTS Asoke 6bedroom townhouse,485874916,Mpa,Vadhana,13.7393664,100.5607405,Entire home/apt,8500,1,1,2022-12-13,1.0,1,336,1,True,False,0.9205479452054794,9.04793908261736
+7.6786e+17,3bedrooms#230SQM#BTS Chidlom,111844630,B,Pathum Wan,13.73877,100.54286,Entire home/apt,14571,2,1,2022-12-25,1.0,16,119,1,True,False,0.32602739726027397,9.586857158128455
+7.66202e+17,"80米轻轨站,空中泳池+健身房,I con siam沙吞河景圈,距离大皇宫4公里,乳胶床垫",28589379,Lily,Khlong San,13.72127,100.49527,Entire home/apt,710760,12,0,,0.0,1,313,0,True,False,0.8575342465753425,13.4740915060027
+7.66414e+17,Modern Executive Suite w/Breakfast @ Central Ashok,26620868,Gilles,Vadhana,13.73839,100.56155,Entire home/apt,8092,1,0,,0.0,34,84,0,True,False,0.23013698630136986,8.998754769495703
+7.71056e+17,ห้องพักในโรงแรมGrande center point Terminal 21,443347108,Orawan,Vadhana,13.73794,100.56019,Private room,9614,1,1,2022-12-01,1.0,1,365,1,True,False,1.0,9.17107965802288
+7.7795e+17,Lamaiman 4BR Pool Villa,458411065,Pauranai,Bang Na,13.65679,100.60991,Entire home/apt,10142,3,0,,0.0,1,348,0,True,False,0.9534246575342465,9.224539091375995
+7.71716e+17,"Breezy Haus in Asoke: Pool, walk to BTS/MRT: 22pax",49539775,Max,Khlong Toei,13.72655,100.56219,Entire home/apt,9571,2,2,2022-12-20,2.0,36,78,2,True,False,0.2136986301369863,9.166597449028265
+7.72697e+17,888 Group of 16 guests@Chinatown+airport 2 ways#2,26736483,K,Pom Prap Sattru Phai,13.74105,100.512,Entire home/apt,8710,1,0,,0.0,89,360,0,True,False,0.9863013698630136,9.072341873818893
+7.72734e+17,888 GROUP of 16 guests @Chinatown airport 2ways#3,26736483,K,Pom Prap Sattru Phai,13.7423,100.51238,Entire home/apt,8935,1,0,,0.0,89,360,0,True,False,0.9863013698630136,9.097843340749037
+7.72753e+17,888 GROUP of 16 guests @Chinatown airport 2ways#4,26736483,K,Samphanthawong,13.7414,100.51004,Entire home/apt,8935,1,0,,0.0,89,360,0,True,False,0.9863013698630136,9.097843340749037
+7.73542e+17,The Black Kingdom /150m. from Mrt BangAor station,438054136,Khachen,Bang Phlat,13.79472,100.50918,Entire home/apt,28000,1,0,,0.0,1,79,0,True,False,0.21643835616438356,10.239995502805316
+7.76297e+17,888 Group of 16 guests@Chinatown+airport 2 ways#5,26736483,K,Pom Prap Sattru Phai,13.74142,100.51222,Entire home/apt,8935,1,0,,0.0,89,360,0,True,False,0.9863013698630136,9.097843340749037
+7.76802e+17,Luxurious Jacuzzi & River View in Old Town 180 Sqm,298779338,Joyce,Bang Rak,13.71984,100.5172,Entire home/apt,8900,2,2,2022-12-25,2.0,8,252,2,True,False,0.6904109589041096,9.093918908958932
+7.77515e+17,Luxury two bedrooms near Iconsiam,479640508,Yoyo,Khlong San,13.72197,100.51127,Entire home/apt,9500,15,0,,0.0,10,365,0,True,False,1.0,9.15915233520675
+7.81477e+17,Condo Vittorio Sukhumvit 39,491248720,Anyawee,Vadhana,13.72963,100.57171,Private room,100000,1,0,,0.0,1,365,0,True,False,1.0,11.51293546492023
+7.80361e+17,New 12 Bedroom 26 Persons Townhouse in Center,123144618,Jingli,Ratchathewi,13.75016213,100.5465437,Entire home/apt,9800,1,0,,0.0,5,354,0,True,False,0.9698630136986301,9.19023970026918
+7.90715e+17,Pool Villa 107B,351309638,Smirah,Bang Na,13.65270822,100.626089,Entire home/apt,17000,1,0,,0.0,5,361,0,True,False,0.989041095890411,9.741027444837728
+7.90816e+17,Astounding view on river bank,83677585,Nina,Bang Rak,13.72198369,100.5160849,Entire home/apt,12000,1,0,,0.0,1,3,0,True,False,0.00821917808219178,9.392745258631441
+7.85893e+17,Modern 2 Bedrooms Suite,434168399,Krittika,Vadhana,13.73521,100.59848,Entire home/apt,11429,1,0,,0.0,44,365,0,True,False,1.0,9.343996756788856
+7.86742e+17,Private Home for 12-16 Guests 8 Parking,435016000,Tadchon,Lat Phrao,13.82795836,100.5918952,Entire home/apt,17900,2,0,,0.0,10,362,0,True,False,0.9917808219178083,9.792611856190192
+7.86742e+17,Private Hotel for 12-16 Guests,435016000,Tadchon,Chatuchak,13.82180948,100.5630667,Private room,17900,2,0,,0.0,10,362,0,True,False,0.9917808219178083,9.792611856190192
+7.86835e+17,"Cozy 1 bedroom 40 sqm, central",434168399,Krittika,Vadhana,13.7356318,100.5678615,Entire home/apt,7589,1,0,,0.0,44,364,0,True,False,0.9972602739726028,8.934586870389676
+7.86853e+17,"Cozy 1 bedroom 40 sqm, central",434168399,Krittika,Vadhana,13.73475317,100.5666824,Entire home/apt,7589,1,0,,0.0,44,364,0,True,False,0.9972602739726028,8.934586870389676
+7.86854e+17,Grandio Ladprao 3 Bed 3 Bath,435016000,Tadchon,Bueng Kum,13.79797867,100.6599531,Entire home/apt,8900,3,0,,0.0,10,364,0,True,False,0.9972602739726028,9.093918908958932
